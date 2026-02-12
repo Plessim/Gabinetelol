@@ -1,0 +1,147 @@
+{
+  "generated_at": "2026-02-10T00:12:20Z",
+  "overall": {
+    "folds": 1,
+    "n_total": 366,
+    "logloss_mean": 0.6864485213823116,
+    "brier_mean": 0.2466592443057603,
+    "roi_proxy_mean": 0.19340813925252553
+  },
+  "folds": [
+    {
+      "month": "2026-02",
+      "n": 366,
+      "logloss": 0.6864485213823116,
+      "brier": 0.2466592443057603,
+      "roi_proxy": 0.19340813925252553
+    }
+  ],
+  "by_league": {
+    "AL": {
+      "n_total": 10,
+      "months": 1,
+      "logloss_mean": 0.664487568360875,
+      "drift_mean": -0.021960953021436636,
+      "roi_proxy_mean": 0.31116940047934777
+    },
+    "CBLOL": {
+      "n_total": 22,
+      "months": 1,
+      "logloss_mean": 0.6892065824170586,
+      "drift_mean": 0.0027580610347469614,
+      "roi_proxy_mean": 0.25462251269807257
+    },
+    "CCWS": {
+      "n_total": 11,
+      "months": 1,
+      "logloss_mean": 0.6887220114960497,
+      "drift_mean": 0.002273490113738119,
+      "roi_proxy_mean": 0.6235948617233906
+    },
+    "EBL": {
+      "n_total": 9,
+      "months": 1,
+      "logloss_mean": 0.6883890028082249,
+      "drift_mean": 0.0019404814259132985,
+      "roi_proxy_mean": 0.3232421872773014
+    },
+    "HLL": {
+      "n_total": 4,
+      "months": 1,
+      "logloss_mean": 0.6796088307385215,
+      "drift_mean": -0.006839690643790086,
+      "roi_proxy_mean": 0.9731058142164418
+    },
+    "HW": {
+      "n_total": 21,
+      "months": 1,
+      "logloss_mean": 0.6922502781610728,
+      "drift_mean": 0.005801756778761158,
+      "roi_proxy_mean": 0.23524181554239684
+    },
+    "LCK": {
+      "n_total": 16,
+      "months": 1,
+      "logloss_mean": 0.680668452915107,
+      "drift_mean": -0.00578006846720458,
+      "roi_proxy_mean": -0.052033735766772504
+    },
+    "LCKC": {
+      "n_total": 22,
+      "months": 1,
+      "logloss_mean": 0.6951275058716365,
+      "drift_mean": 0.008678984489324915,
+      "roi_proxy_mean": 0.03822946791749102
+    },
+    "LCP": {
+      "n_total": 24,
+      "months": 1,
+      "logloss_mean": 0.6744663132348037,
+      "drift_mean": -0.011982208147507944,
+      "roi_proxy_mean": 0.2831577433442125
+    },
+    "LCS": {
+      "n_total": 18,
+      "months": 1,
+      "logloss_mean": 0.6918563256755751,
+      "drift_mean": 0.005407804293263485,
+      "roi_proxy_mean": 0.3275133412511543
+    },
+    "LEC": {
+      "n_total": 24,
+      "months": 1,
+      "logloss_mean": 0.6922117097450062,
+      "drift_mean": 0.005763188362694627,
+      "roi_proxy_mean": 0.06727520110832108
+    },
+    "LFL": {
+      "n_total": 15,
+      "months": 1,
+      "logloss_mean": 0.6927958761378219,
+      "drift_mean": 0.006347354755510293,
+      "roi_proxy_mean": 0.06580233511410769
+    },
+    "LIT": {
+      "n_total": 29,
+      "months": 1,
+      "logloss_mean": 0.6998346160353166,
+      "drift_mean": 0.013386094653004998,
+      "roi_proxy_mean": -0.18682805031862998
+    },
+    "LJL": {
+      "n_total": 77,
+      "months": 1,
+      "logloss_mean": 0.6871248296680786,
+      "drift_mean": 0.0006763082857670355,
+      "roi_proxy_mean": 0.36088778460989135
+    },
+    "LPL": {
+      "n_total": 40,
+      "months": 1,
+      "logloss_mean": 0.6720971272992188,
+      "drift_mean": -0.014351394083092828,
+      "roi_proxy_mean": 0.10778895484946274
+    },
+    "NLC": {
+      "n_total": 5,
+      "months": 1,
+      "logloss_mean": 0.6962584299071323,
+      "drift_mean": 0.009809908524820665,
+      "roi_proxy_mean": -0.20007455256925616
+    },
+    "ROL": {
+      "n_total": 9,
+      "months": 1,
+      "logloss_mean": 0.680483350217821,
+      "drift_mean": -0.005965171164490579,
+      "roi_proxy_mean": 0.07004453091938423
+    },
+    "TCL": {
+      "n_total": 10,
+      "months": 1,
+      "logloss_mean": 0.6883135938582796,
+      "drift_mean": 0.0018650724759680104,
+      "roi_proxy_mean": 0.18596586114264751
+    }
+  }
+}

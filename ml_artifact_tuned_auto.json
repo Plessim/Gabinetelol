@@ -1,0 +1,7915 @@
+{
+  "version": "0.4.0",
+  "model": {
+    "params": {
+      "k": 24.0,
+      "k_league": 6.0,
+      "k_tier": 3.0,
+      "k_side": 0.0,
+      "scale_points": 360.0,
+      "init_rating": 0.0,
+      "alpha": 80.0,
+      "l2_team": 0.0002,
+      "l2_league": 0.0005,
+      "l2_tier": 0.0005,
+      "l2_side": 0.0,
+      "rank_cap_percentile": 99.5,
+      "rank_caps_min_teams": 20
+    },
+    "ratings": {
+      "LNG Esports": -14.713310580688058,
+      "Rare Atom": -125.91371671000829,
+      "JD Gaming": 105.40940557106353,
+      "Top Esports": 221.20522045669304,
+      "Ninjas in Pyjamas": 12.405522808625197,
+      "Bilibili Gaming": 202.05775581250688,
+      "BoostGate Esports": 87.97509403116655,
+      "Dark Passage": 61.55109500218504,
+      "Auronin": 19.63864558622319,
+      "NONAMES (Turkish Team)": -35.86391967958307,
+      "Misa Esports": 140.28052348551628,
+      "FUT Esports": 96.04050088895514,
+      "Easier to Run": -10.583590907882297,
+      "BAU Esports": -34.49933181342467,
+      "NASR eSports Turkey": -103.20883073149692,
+      "Beşiktaş Esports": 58.506155360983215,
+      "Karasuno": -32.05790980980192,
+      "Lynch Esports": -81.57028698100629,
+      "Galakticos": -132.04046972331344,
+      "Papara SuperMassive": 61.04079045665181,
+      "Ascendance": -29.94963364994642,
+      "IMU Beyond": -5.982850064785831,
+      "Team BDS": -4.828320606394911,
+      "G2 Esports": 216.12003248482694,
+      "Rogue": -206.40138173042308,
+      "SK Gaming": -109.81766097319078,
+      "Karmine Corp": 90.9764889857356,
+      "Fnatic": 112.38116487741944,
+      "Team Vitality": -38.59526024681897,
+      "GiantX": -46.10750318156168,
+      "MAD Lions KOI": -3.967742502748933,
+      "Team Heretics": -93.66431108457753,
+      "DRX Challengers": 37.06475118944665,
+      "BNK FEARX Youth": 13.112695630563593,
+      "ION Global Esports": -30.555447952502213,
+      "FURY Global": -104.47768932762345,
+      "Nongshim Esports Academy": -14.666348718670372,
+      "Gen.G Global Academy": -90.89511127376667,
+      "Team Bliss": 177.54476100253342,
+      "Dire Wolves": -135.39880627679466,
+      "KT Rolster Challengers": 187.344145456423,
+      "HANJIN BRION Challengers": -108.89260467615118,
+      "Ground Zero Gaming": -154.76416808870758,
+      "Kanga Esports": -157.95526952130393,
+      "Hanwha Life Esports Challengers": -15.86891181596454,
+      "Dplus Kia Challengers": 31.868170097919865,
+      "DN SOOPers Challengers": 25.991769507831577,
+      "T1 Esports Academy": 89.675353944691,
+      "GRP Esports": -66.15262728316499,
+      "Forsaken": 141.41547976343344,
+      "devils.one": -104.93517501115541,
+      "Team ESCA Gaming": -128.95750137534228,
+      "Orbit Anonymo Esports": -43.10499873233713,
+      "Iron Wolves": -128.48870630028966,
+      "Zero Tenacity": 240.09451045525435,
+      "Back2TheGame": 86.5078823273331,
+      "Movistar R7": 198.95907507475886,
+      "Estral Esports": -0.9716950128202326,
+      "inf": 27.895095452757783,
+      "Isurus": 50.523994992067195,
+      "DRX": -184.30121725331622,
+      "Nongshim RedForce": -85.722949772958,
+      "Gen.G": 290.86502506924916,
+      "T1": 208.07970312911394,
+      "NNO Prime": 118.72204111686976,
+      "SK Gaming Prime": 82.77799479018957,
+      "Barça eSports": 74.1646408829498,
+      "Case Esports": 68.80606932486258,
+      "BK ROG Esports": 86.65150521717386,
+      "Karmine Corp Blue": 212.2134928239737,
+      "Aegis": -159.9627897801621,
+      "Team GO": 52.156240116551906,
+      "Ramboot Club": 20.41813374722433,
+      "Rebels Gaming": -150.31775487723783,
+      "Eintracht Frankfurt": -73.83036423698208,
+      "Austrian Force willhaben": -11.29743686979347,
+      "UCAM Esports": 55.98658255421216,
+      "Guasones": -82.7545262602229,
+      "Vitality.Bee": 137.07326475688285,
+      "Team BDS Academy": 115.83699156655248,
+      "Unicorns of Love Sexy Edition": 77.00699002484309,
+      "Eintracht Spandau": 29.81933101069859,
+      "Los Heretics": 203.6824532161552,
+      "GIANTX iTero": 195.1146568514247,
+      "Solary": 46.09764173565615,
+      "Gentle Mates": 43.11021186509946,
+      "MOUZ NXT": -233.69106614389457,
+      "E WIE EINFACH E-SPORTS": -2.2729645045500027,
+      "ZETA": -240.99215167805647,
+      "Movistar KOI": 129.45722065698538,
+      "Team du Sud": -153.99255361948855,
+      "GameWard": -107.51404305066332,
+      "Berlin International Gaming": 148.84388767316682,
+      "FC Schalke 04 Esports": 63.396082868088854,
+      "Leviatan": -19.784684986309045,
+      "Six Karma": -233.33413674215524,
+      "HANJIN BRION": -194.2842969856712,
+      "Dplus Kia": 69.2034526094707,
+      "KT Rolster": 69.7808761235648,
+      "BNK FEARX": -63.02175849085919,
+      "All Knights": -40.67825822768935,
+      "Hanwha Life Esports": 246.57944665429537,
+      "Beyond Gaming": 26.883346233028654,
+      "CTBC Flying Oyster": 311.9175214235703,
+      "DN SOOPers": -211.49888923870571,
+      "West Point Esports": -32.70446590112588,
+      "Deep Cross Gaming": 11.092824826045044,
+      "Burning Core Toyama": -72.85370620898736,
+      "QT DIG∞": 70.89762115278005,
+      "Frank Esports": 143.7426813957333,
+      "J Team": -61.48293300438979,
+      "Team Secret": 116.06998685821776,
+      "MGN Vikings Esports": 157.78807824204407,
+      "Fukuoka SoftBank HAWKS gaming": 118.6758345218122,
+      "DetonatioN FocusMe": 78.20318985354649,
+      "PSG Talon": 207.55037588617708,
+      "HELL PIGS": -281.22006700014396,
+      "MGN Blue Esports": -74.06972564536883,
+      "Rainbow Warriors": -235.57321382106718,
+      "AXIZ CREST": -94.83965164008345,
+      "V3 Esports": -190.73754218678766,
+      "LOUD": 90.64479740823808,
+      "KaBuM! Esports": -23.772132238999003,
+      "Vivo Keyd Stars": 153.71275079581636,
+      "Los Grandes": -45.68029553235897,
+      "Fluxo": -70.52196767186189,
+      "FURIA": 47.837035536532305,
+      "Liberty": -96.38418879286951,
+      "INTZ": -122.6079976478305,
+      "Team Liquid": 103.82165324501563,
+      "100 Thieves": 102.05668464138799,
+      "RED Canids": 106.87212531537509,
+      "paiN Gaming": 132.59599664571667,
+      "Cloud9": 164.37766117177569,
+      "NRG": -85.46619218951885,
+      "FlyQuest": 268.56930523063807,
+      "Shopify Rebellion": -56.05646213644239,
+      "Dignitas": -125.52938953575858,
+      "Immortals": -131.3394731244908,
+      "Disguised": -48.476867629963245,
+      "FlyQuest NZXT": 164.11585901728554,
+      "Team Liquid Challengers": -61.9850453258576,
+      "Wildcard Gaming": -34.10178694954222,
+      "Team Flash": -33.192785643141555,
+      "CERBERUS Esports": -102.44796372114268,
+      "Team Whales": -11.934932215941156,
+      "GAM Esports": 179.52980899376675,
+      "Cincinnati Fear": -18.418121942340676,
+      "Mirage Alliance": -146.97784002022232,
+      "Area of Effect Esports": -68.85961970673148,
+      "Maryville University": 128.23895353360467,
+      "MAMMOTH": -150.1347402338158,
+      "Royal Never Give Up": -214.7071397558429,
+      "EDward Gaming": -39.17011621252957,
+      "Oh My God": -61.30104176414143,
+      "Team WE": -43.758328905941426,
+      "Antic Esports": 83.91556498567697,
+      "Anyone's Legend": 218.20801171278404,
+      "FunPlus Phoenix": -58.68413084389956,
+      "GLORE": -78.82629987790884,
+      "Team UNiTY": -30.18021520696338,
+      "BRUTE": -124.92451044017325,
+      "Europe Saviors Club": -56.13667539178214,
+      "Team Mythic": -22.967223869658092,
+      "Team Refuse": -117.12848964744373,
+      "Dynamo Eclot": -84.40088202184334,
+      "Entropiq": 140.1988672691187,
+      "Once Upon A Team": -77.55277611553622,
+      "Team 7AM": 35.53367521388861,
+      "OGC Sigma Esports": -1.3418293211397352,
+      "eSuba": 136.38674951455644,
+      "Team Phantasma": 290.29026726161203,
+      "Zerolag Esports": -137.28367185481213,
+      "A One Man Army": -23.95805821178691,
+      "ZennIT": 182.31415174038978,
+      "Gamespace Mediterranean College Esports": 105.11891263969517,
+      "Wild Panthers Esports": -193.19097024736703,
+      "SNOOZE Esports": 28.41355169610367,
+      "Myth Esports": 49.133232930512015,
+      "WLGaming Esports": 2.5700164777173944,
+      "Anorthosis Famagusta Esports": 151.39964037341565,
+      "Dynasty": -120.99918988734518,
+      "mCon esports": 113.19925750521396,
+      "LGD Gaming": -70.12833041283474,
+      "Ultra Prime": -172.43110097133842,
+      "Invictus Gaming": 117.6459604127755,
+      "NORD Esports": 108.35917976881785,
+      "Nativz": -84.69827388477017,
+      "Lionscreed": 71.09034390376249,
+      "DMG Esports": -91.27115418198306,
+      "Venomcrest Esports": 6.497900885180214,
+      "Lundqvist Lightside": -68.15974304102583,
+      "Verdant": 126.74078194523652,
+      "Ruddy Corporation": 13.846334369312583,
+      "Weibo Gaming": 51.70435922086401,
+      "ThunderTalk Gaming": -89.34442120215336,
+      "Macko Esports": 284.1224790079477,
+      "aNc Outplayed": 45.69836163379857,
+      "DSYRE": 163.2916638800584,
+      "EKO Esports": -157.31325806289627,
+      "BWE Esports": -138.27371588665318,
+      "Keypulse Esports": -75.23485796982496,
+      "ENEMI3S": -101.14096566990307,
+      "Atleta Esport": 108.93264861332537,
+      "Odivelas Sports Club": -21.629777297213238,
+      "Hurricane of Feathers": -91.81402801264838,
+      "DREN Esports": -160.0811693841435,
+      "Axolotl": -94.47994199994866,
+      "EGN Esports": 185.11625006151743,
+      "SAW": 104.26218901957684,
+      "White Dragons": -16.804035916723688,
+      "GTZ Esports": 45.058336489099446,
+      "Oh My God Academy": -11.989248362020222,
+      "Bilibili Gaming Junior": -30.44747526870467,
+      "Ji Jie Hao (集结号)": 3.7024784458633766,
+      "Anyone's Legend.Young": 27.481894472222926,
+      "EDG Youth Team": 138.20782825732044,
+      "Rare Atom Period": -129.7029420138745,
+      "FunPlus Phoenix Blaze": 13.279098293109064,
+      "ThunderTalk Gaming Young": 31.40412538995242,
+      "Ultra Prime Academy": -101.45788780807386,
+      "Top Esports Challenger": 23.408849918893317,
+      "Joy Dream": 13.932082400227186,
+      "Team WE Academy": -31.353005794223396,
+      "LGD Gaming Young Team": 122.51845466687844,
+      "LNG Academy": -37.41233711375256,
+      "Weibo Gaming Youth Team": 72.39014140363437,
+      "Royal Club": 78.44582690001936,
+      "Supernova": 26.67070779044066,
+      "LiT Esports": -110.65286133708547,
+      "Lupus Esports": -128.94416273054796,
+      "Ankora Gaming": -175.85098126041873,
+      "Partizan Esports": -66.80834409466249,
+      "Diamant Esports": 1.1533998043067366,
+      "SPIKE Syndicate": 80.94204471751992,
+      "Crvena zvezda Esports": 162.33003384482154,
+      "Invictus Gaming Young": 87.03374046163391,
+      "MAX": -16.97652898351594,
+      "MiaoJing (妙竞)": -221.85211553657993,
+      "Cyber Wolves": -105.38924574260142,
+      "BeFive": -10.566866359556723,
+      "One Way Esports": 34.7491728638401,
+      "Liberty Academy": -63.16386036250829,
+      "FURIA Youth": 74.67357156826525,
+      "paiN Gaming Academy": 244.82083296855345,
+      "Los Grandes Academy": -130.7475680921364,
+      "KaBuM! Academy": 77.0611359322518,
+      "RED Academy": 112.47675642918527,
+      "Flamengo Academy": 9.91587272268678,
+      "LOUD Academy": -5.197177664206208,
+      "Fluxo Academy": -80.62316955508813,
+      "INTZ Academy": -247.40101821116008,
+      "XV eSports": -69.11767712589062,
+      "Vivo Keyd Stars Academy": 189.4575228113471,
+      "Geekay Esports": 387.13137879921703,
+      "One More Esports": -104.92237778168054,
+      "RA'AD": -284.13573890371987,
+      "Anubis Gaming": 7.907063120959888,
+      "Fox Gaming": -0.8008894108854426,
+      "GnG Amazigh": 25.62150625672149,
+      "Twisted Minds": 52.48715761512404,
+      "Nigma Galaxy": 29.953071422361017,
+      "KRC Genk Esports": -55.65226494148386,
+      "Team Legion": -44.13173681250338,
+      "FLY5": 46.60829098438055,
+      "Maverix": 64.01187495741992,
+      "Team Meliora": -103.06227406254065,
+      "H3ARTS": -33.60131202317547,
+      "EXILE esports": -195.8295572721945,
+      "Inside Games": -161.13549654724127,
+      "Esport STUBA": -47.79419653423671,
+      "Delta Syndicate": -57.25074108842536,
+      "AXIZ CREST Academy": -203.5546191265422,
+      "CTBC Flying Oyster Academy": -7.422975016784934,
+      "West Point Esports Academy": 55.60340048044273,
+      "PSG Talon Academy": 36.07303829800436,
+      "Impunity": 113.24982594582337,
+      "Hungkuang Falcon (弘光獵鷹)": -153.89075443936085,
+      "Deep Cross Gaming Academy": 76.89196155692606,
+      "V3 Esports Academy": -292.5498521485153,
+      "TNU Eagle (東南飛鷹)": 6.426646700070583,
+      "Frank Esports Academy": 139.59301432273855,
+      "Sengoku Gaming Academy": -54.18286611560995,
+      "DetonatioN FocusMe Academy": 26.8359651185509,
+      "Esprit Shōnen": 125.83733493071556,
+      "Lille Esport": -81.62992690632834,
+      "Project Conquerors": 18.98257766713961,
+      "Ici Japon Corp. Esport": 137.6888620682461,
+      "IziDream": 60.53592220649942,
+      "Klanik Esport": -88.16923695767449,
+      "Joblife": -16.11305557420596,
+      "Akroma": -62.327546130439934,
+      "MHSC Esport": 62.94714994171079,
+      "Zerance": -140.80304036574745,
+      "Dream Makers": -13.246340936363682,
+      "Veni Vidi Vici": 51.9597692998661,
+      "Guinea Pink": 1.7477203222058713,
+      "Universae Instituto FP": -30.47237714067398,
+      "Kawaii Kiwis": 23.188223706858675,
+      "UCAM Esports Academy": -32.38512902151201,
+      "Erfolg Esports": 147.3168050464974,
+      "UnlockTan'i": -22.592758557938968,
+      "Chienhsin Bear (健行熊)": 45.54718015901067,
+      "PÊEK Gaming": 77.89767430210084,
+      "Tomorrow Esports": 49.186101984252105,
+      "Pirates IDV": -139.36448479470067,
+      "Osaka": -81.52193110204585,
+      "DSC3V": -91.91527933902154,
+      "Fuego": 233.56750372391826,
+      "Waia Snikt": -18.514610347242524,
+      "Janus Panter": -108.76361461351618,
+      "WAP Esports": -21.989621023658383,
+      "Eclipse Gaming": -73.73207744132397,
+      "Meta Gaming": -3.4366935362848046,
+      "Undead Gaming": 52.52489759554713,
+      "Blue Otter": -11.824943011593644,
+      "Winthrop University": -108.77000411401256,
+      "PRIMATE": 79.62555254629723,
+      "Furious Gaming": -33.479104531156274,
+      "Malvinas Gaming": -55.534464603014165,
+      "Spectacled Bears": 12.615403365483429,
+      "CCG Esports": 14.996055987559886,
+      "University of Mississippi": -34.07202237295392,
+      "International Esports Industry Center": -19.35225878159068,
+      "Bees Hum": -20.22416702454789,
+      "Flamengo MDL": 22.629196819983243,
+      "CORE 128": -16.930080708437238,
+      "Team GMask": -55.103884933267594,
+      "Tan'i eSports": 3.0125014208848153,
+      "BGA eQuizers": -51.12127044367798,
+      "Laffson's gang": 23.95535422452689,
+      "Zennox Gaming": -69.60167410524562,
+      "Repre Gold": -22.082426818885395,
+      "PaiN Gaming Ignis": 80.14363708086235,
+      "IME Wolves": -45.79383461336537,
+      "Laranja Mecânica Ignis": -46.6358976721927,
+      "Coven": -21.166431375070115,
+      "Rise Gaming Ignis": 162.46789746028398,
+      "Izanagi Ignis": -69.48715330647101,
+      "Vivo Keyd Stars Ignis": 50.82723850593434,
+      "Geração Estrutura": -56.03395687829156,
+      "BNK FEARX Academy": -111.16274709352955,
+      "DRX Academy": -281.5866239703104,
+      "Dplus Kia Youth": 98.68872136361641,
+      "HANJIN BRION Academy": 136.10229774729692,
+      "Nongshim RedForce Academy": -130.82888039221618,
+      "KT Rolster Academy": 58.84187686856383,
+      "DN SOOPers Academy": -48.15833276724435,
+      "Gen.G Scholars": -24.72233998817085,
+      "Hanwha Life Esports Academy": 86.55879781009713,
+      "T1 Esports Academy Rookies": 214.6192355235347,
+      "Team Paradox": -27.60882398853412,
+      "LUA Gaming": 24.36660216249676,
+      "SAMCLAN Esports Club": -142.22554679620254,
+      "Burning Core Toyama Academy": -154.89799635670263,
+      "Diversion Gaming": 79.28533996052073,
+      "Parakeet Gaming": 35.10972603921234,
+      "OGC Esports": -98.57273091042086,
+      "Ilha das Lendas": 40.54383606480291,
+      "Rise Gaming": -111.5847131354585,
+      "Tropa Raizen": -28.354324523175066,
+      "BlueWhites": -129.58246403394097,
+      "LODIS": -158.35195272914487,
+      "Team Anomaly Breaker": 30.9247259523456,
+      "Seven Dark": -103.94158775231172,
+      "Dragonsteel": 192.79382652243004,
+      "Fear x Starforge": 99.18618049022615,
+      "PepePo": -11.668450848722857,
+      "Dragoon's Goons": 154.79902569493655,
+      "Nightblood Gaming": -34.67501564758508,
+      "Gentle Hearts Gaming": -50.47213916321265,
+      "Gravity": -33.79122979121938,
+      "Black Rock Esports": -21.767337099892206,
+      "Pulse Star": -82.5034679032216,
+      "Next Level Esports": -46.897894566491395,
+      "Contingent Esports": -80.13137842275572,
+      "Apex Mission Impossible": -93.46553364973079,
+      "Castle Berry": 0.4008978976848272,
+      "DUCKIE GETTERS": 57.794476990076994,
+      "Lotus": 72.87923493776329,
+      "grompcord": -56.10284796210502,
+      "WANG TOWN": -10.351223695220297,
+      "Nigel's Last Tiles": -46.897894566491395,
+      "Lotus Knights": -11.20682010418164,
+      "Team Insidious": 47.45037194564413,
+      "SINS Esports": 11.908049227401522,
+      "Actions Per Minute": -101.7503276889311,
+      "DELTALAND": -34.18151324984694,
+      "The Gulls Esports": -21.788175346972928,
+      "GMBLERS Esports": 51.409143328519875,
+      "PepeTinkyWinky": -32.59605631210647,
+      "L’art de la Guerre": -21.725153329664394,
+      "Pee N W's": 13.42660013606212,
+      "Komodo": 41.348212188071976,
+      "Maelstrom Esports": -9.794198343325622,
+      "ReluminateGG": -7.756555912328216,
+      "Guangdong Flying Tigers": -0.4662438321562927,
+      "MIBR": -5.667075272655099,
+      "eWolves Ignis": -47.05936238030389,
+      "Comanchero Gaming": -32.8716397715543,
+      "NONAME": 62.74316350135594,
+      "Spinebusters E-Sport": 0.04299070781053475,
+      "Jörmungang": 57.50879361604689,
+      "Pertinax Esports": -56.84849994413303,
+      "Stormbringers": -33.723466641101076,
+      "Kaufland Hangry Knights": 24.85637497001777,
+      "Dutch Community Team": -74.9179410565792,
+      "Aurora": -167.83951360632298,
+      "Leões Porto Salvo Esports": 44.60555520723469,
+      "ZeroZone Gaming": -124.12361461671941,
+      "Rich Gang": 3.0432105720443334,
+      "Twareg Esports": -8.569216758135122,
+      "Juicy Ballers": -6.050984216219624,
+      "BAAM Esports": -63.42455433751287,
+      "Fog Esports": 73.43454996837742,
+      "Ukrainian Glory Team": -35.49014536753194,
+      "Packmiko E-Sports": 20.69284155688836,
+      "42 Gaming": -66.05239166948132,
+      "Fourth Wall": -0.7961976826096051,
+      "Nameless (French Team)": 11.663562509198567,
+      "HUGE Esport": -23.17882222329739,
+      "FlameHard": 207.11544535910596,
+      "Kafard Academie": -13.580520990370834,
+      "Le Pouvoir de l'Amitié": 8.110241029564287,
+      "AIX eSports": -43.78107118318728,
+      "Andromeda Nebula": -60.255353296804074,
+      "All for One Gaming": -42.109144030190244,
+      "DKB XPERION NXT": 48.218316973244846,
+      "RNL ROAR": 10.34174529829856,
+      "ROSSMANN Centaurs": 40.310513430063956,
+      "TeamOrangeGaming": 40.70091891132128,
+      "Team Mentality": 22.312947372339533,
+      "Foxnyr Esports": -36.135301626046015,
+      "Wstyd Easta": 3.3003299233835803,
+      "EXILE esports Academy": -25.19296951639908,
+      "Diversion Academy": -35.683301697640154,
+      "VININE": -25.72786160784891,
+      "Entropy x Teufel": -34.98018164544133,
+      "KIA.eSuba Academy": 172.16462703428996,
+      "Esport STUBA Academy": -38.36213885761882,
+      "Kiedyś Miałem Fun": 189.7793046095406,
+      "Ethereal Enigmas": -41.6429204442072,
+      "EPIC-DUDES": -12.984691588562965,
+      "DKB XPERION NXT RAW": 0.9860060310585929,
+      "AceGaming Spades": -26.66512269836715,
+      "regnum4games": -1.4915335849849536,
+      "VfB eSports": -12.901389905221656,
+      "Frontier x Veni": 14.848906843938211,
+      "eSports Cologne e.V.": -49.86507417354551,
+      "Brod and Friends": -14.02926530278075,
+      "Regem": 64.60178580183687,
+      "AGALAR": 5.101777669857849,
+      "Bootz Gaming": -22.681754185832673,
+      "Direct Rising eSports": -54.85489559202989,
+      "WeSports": 31.475186518257495,
+      "AvaTrade PixelPenny": -30.294118622316812,
+      "INT Esports": -22.29856789878827,
+      "PARAGON (British Team)": -38.70790469090428,
+      "Joker Strike": 8.528716225522352,
+      "Epic Avalanche": 12.657804473339919,
+      "6AM": -2.354492395729963,
+      "Only Heroes Academia": -38.3847631516297,
+      "Dusty": -28.91639641238194,
+      "Bitfix Gaming": -23.30107621353547,
+      "Brod n Friends": -0.38646429012846834,
+      "Team Axelent69": 100.25510934738504,
+      "Phoenix Esports": 13.213288473445619,
+      "Hazing Chase": 24.35836715813682,
+      "Athen Warrior": -23.34016528939477,
+      "Ahriro": -29.971754868137296,
+      "FoxFire": -6.235201803270842,
+      "Spartans EU": -20.462405095871546,
+      "Paranormal Invaders": -10.353740002803102,
+      "Ionikos Nikaias Esports": -18.195277987590543,
+      "24/7 Tower Dive": -9.163451178346321,
+      "Infernal Wolves": -11.485494300308641,
+      "Mind Blue Futures": -47.07043955406474,
+      "StriX (Belgian Team)": -10.728579154028239,
+      "Top 1 Benelux": 50.92876752301528,
+      "RQS Esports": 23.944315154074253,
+      "ATK Esports": 19.378865278320546,
+      "ESEV Zephyr Ares": -45.74849729201565,
+      "RED OUAT": -7.320734574861352,
+      "Coinflip to Victory": -11.093031947108752,
+      "Team Shrimp": 55.840287919309745,
+      "Fight For Ever": 11.758567457594323,
+      "Emrys Esports White": -34.504104119190416,
+      "Jörmungang Academy": -11.697773246829161,
+      "Gamers404": -18.051395263760543,
+      "Mind Blue eSports": -21.427027208599917,
+      "CIS Falling Stars": -23.720389086078878,
+      "eQuizers": 61.34353251105082,
+      "Team DX": -7.4691015450512745,
+      "R5 Esports": -30.65636729309523,
+      "UCAM University Esports": -23.498101909729915,
+      "Oxygen Gaming": -50.87199939987715,
+      "Ceuta Guardians": -43.49067650621732,
+      "Melilla Titans": -54.02493530684947,
+      "Green Dolphin Gaming": -42.221034526254044,
+      "Malvinas Gaming EU": -40.47779623360183,
+      "PRINCIPALITY": -79.33529158864836,
+      "La Alta Parroquia": -13.144932650840554,
+      "Heracles Gaming": 31.639604610009187,
+      "Fortune Makers": 2.3759621710382914,
+      "KAOS e-sport": -65.52438015877499,
+      "Lazy In Life": 20.37370520321357,
+      "UniQ Esports Club": 16.385774200549346,
+      "Garden Gaming": -7.185970299836407,
+      "RIP MAMBERROI": -20.71092454373809,
+      "Falke Esports": 64.16389237738703,
+      "Ruzeh Esports": -25.26905157659421,
+      "Senshi eSports": 67.23725870416185,
+      "Bad Day": -20.170860839372672,
+      "Banshee": -5.274105932764219,
+      "Winter (Brazilian Team)": -22.001857538743568,
+      "Chinese Taipei (National Team)": 17.549894215038154,
+      "Vietnam (National Team)": -3.3402026887223317,
+      "Team Valiant": 108.54145668288534,
+      "Skillcamp": -141.16130449148127,
+      "Karmine Corp Blue Stars": -80.00696444850227,
+      "Movistar KOI Fénix": -9.157722374050897,
+      "Los Ratones": 280.8825550189298,
+      "Bulldog Esports": -10.362393327946956,
+      "Team Secret Whales": 197.41126981984542,
+      "Chiefs Esports Club": -101.86687744626184,
+      "Dung Dynasty": 32.91346042976105,
+      "Zena Esports": -1.3014895687471517,
+      "Underworld Esports": -18.483929204526376,
+      "Galions": 172.93402101147623,
+      "BBL Dark Passage": -49.33424028764289,
+      "ULF Esports": 5.955429048614012,
+      "Mighty Eagles": -16.482835999489144,
+      "Bushido Wildcats": 58.91978015540672,
+      "Eternal Fire": 48.206137738663706,
+      "Meavedron": 63.297126537509854,
+      "Divernex": 42.0875772828332,
+      "CITA Kaizen": 62.06533961052529,
+      "REJECT": 255.7109036645662,
+      "We Can Win": 30.981371380857425,
+      "Black Dog": -68.27407965227289,
+      "VelbeliKaizokudan": -175.89262809337424,
+      "Spirit Quartz Gaming": -2.545407421107563,
+      "Night Cap": -22.67827089953315,
+      "Kareha Children": -86.49974287225454,
+      "Hands": -189.05570684331423,
+      "Yang Yang Gaming": 78.339207406937,
+      "VARREL YOUTH": 84.84612009042509,
+      "Clocks": 48.44830626458759,
+      "BraVeLY": -145.6431774010022,
+      "VeLocitY (Japanese Team)": -102.47911978633401,
+      "LYON": -47.29149288771354,
+      "Isurus Estral": 35.19698702569938,
+      "Fluxo W7M": -158.48310575191056,
+      "MY STAR": -30.16040525431002,
+      "Monta Club": -84.82442673634516,
+      "Fractious eSports": -58.956759360324156,
+      "Dark Roses": -22.53459372148016,
+      "Gwenchana": -2.4368941669811544,
+      "RATZ": -72.22698220857004,
+      "Dopamina E-Sport": 58.58752256895546,
+      "Corinthians Esports": -39.12969545824243,
+      "Ligre Gaming": -34.782459875948426,
+      "Dynamo Eclot Talents": -45.81261359534932,
+      "Nightbirds": 184.8338335019101,
+      "Tan'i eSports CZ": -17.429120391192892,
+      "Str1ve eSports": -22.736544780924067,
+      "NORTHS FURY": -39.83499617235721,
+      "Crusaders": -7.485201685817196,
+      "5M Esports": 0.020661950365971196,
+      "For The Win Esports": 4.49531750595752,
+      "Grow uP eSports": -8.517690198955792,
+      "Berimbados": -23.84450495654085,
+      "Lenovo Legion Honvéd": -58.05676642581155,
+      "The Secret Club": -12.9472624068543,
+      "Fantastic Esports": 1.3045871561706854,
+      "Magaza Esports": -49.41431687630544,
+      "ΣΤΕΝΑΧΩΡΕΜΕΝΟΙ": -22.792104459006662,
+      "Saigon Dino": 127.07833632619351,
+      "SN CyberCore Esports": -44.69338053270558,
+      "Hyper Vortex Esports": 68.70205887323849,
+      "Silent Storm Esports": -44.24055753227289,
+      "Saigon Secret": -14.627887813362948,
+      "Hanoi Rookies Esports": -42.34566668232233,
+      "Never Give Up": -72.73721358894957,
+      "PaiDA Miwan Bao": -11.9976,
+      "Sponge Gaming": -21.34065375112989,
+      "wangting": 1.5356881409584708,
+      "JY Gaming": -23.84464467120411,
+      "No Barry Berry": -10.844765034068466,
+      "Kyo eSports": -11.313330481221252,
+      "Team Tockers": 11.9976,
+      "Team Revolta": -11.9976,
+      "Stellae Gaming": 55.729944444205174,
+      "KaBuM! Ilha das Lendas": 4.575649600520492,
+      "Dream in 24": 142.50848188235113,
+      "Radical Pop Gaming": -175.7959624865361,
+      "BloomStorm": -107.32341024794216,
+      "Deltan Gaming": 93.5442651163557,
+      "Farenvehn": -33.12293449832899,
+      "Maze Gaming": 64.84793650510902,
+      "Team Evermeet": -120.50783955215925,
+      "Icon Esports": -23.074620011137124,
+      "ODD Esports": -138.55742443380916,
+      "SDM Tigres": -68.42725332024031,
+      "Conviction": -11.399938994754788,
+      "Near Airport": 72.61486063939715,
+      "Luminosity Gaming": 14.487890423682337,
+      "DarkZero Dragonsteel": 107.14761584969622,
+      "LYON Academy": -42.479065605353135,
+      "Zeu5 Esports": 108.88167183172135,
+      "GOAL": 44.65556657655984,
+      "Sicar Esports": -35.49014536753194,
+      "aNc Legends": -151.4283968533876,
+      "Colossal Gaming": 73.06400696079025,
+      "Metin2 Enjoyers": -10.234313666400976,
+      "AKA HERO": -11.15601072892669,
+      "Münster Esports - Golden Goats": -9.533892931208445,
+      "A One Man Army Prime": 6.119461003108552,
+      "Broke": -9.578835910360658,
+      "A One Man Army Prime Academy": -23.83345604610291,
+      "htp eSport Akademie Hannover": 15.71573363175818,
+      "Human Apex Predator": 17.651689123932403,
+      "DOCISK": -48.91279444315646,
+      "Partizan Sangal": 229.50317205270147,
+      "StormMedia Fajnie Mieć Skład": 184.40678450662145,
+      "Connect Arena Esports": -128.8916834154435,
+      "Footprint Gaming": 7.813386326853988,
+      "Permitta eSports": 4.598501325406516,
+      "SK Gaming Avarosa": -7.17146091615608,
+      "KrabbelGruppeAlpha": -10.33264121253921,
+      "Void Requiem": 7.921857056150502,
+      "Black Lion": -23.83345604610291,
+      "TeamOrangeGaming Academy": 42.32626677037164,
+      "Nice Try": -12.273808151433377,
+      "CGN Esports": 77.81460209556538,
+      "LittleSans": -10.583980771734332,
+      "G2 Hel": 18.925963607643368,
+      "Sportia Khore": -23.83345604610291,
+      "Evil genius": -34.21943454091216,
+      "HST": -46.815999583959545,
+      "Apex Predator": 58.391281497216745,
+      "Venus Gaming": 21.764170741231915,
+      "GenZ Gaming": -61.0584264735728,
+      "Mila Gaming": 0.9653777142779357,
+      "HUTECH CHICKEN": -34.67501564758508,
+      "Mental Over Tempo": 10.127344069503797,
+      "Bamboo Juice": 4.212125239589165,
+      "Vortex (Japanese Team)": -47.454126193289326,
+      "Nocturne Gale": -6.450294384348483,
+      "Gaming Barcelona": -109.37336212177648,
+      "MGN Vikings Academy": 3.8382490960990774,
+      "Dragons Esports": 37.1140951273371,
+      "3BL Esports": -54.535542731329045,
+      "FN Esports": 42.28797032827111,
+      "DCT eSports": -26.880544139250183,
+      "Team Blaze 1": -23.83345604610291,
+      "FUSION (Latin American Team)": 34.894566311266814,
+      "Soul's Heart Esport": -15.392831303098802,
+      "Golden Lions": 2.69346673210023,
+      "Tigers eSports": -45.394932957936874,
+      "Paputs Gaming": -58.17151604335864,
+      "Lechuga Gaming": 24.939142885344392,
+      "Contrata Logo Meu Time": -0.4540634894456004,
+      "ZGDX Gaming": -20.889013685653488,
+      "Citadel Gaming": 28.655838937536675,
+      "Cupid Esports": -57.02080921392383,
+      "Dorado Gaming": 10.11723316956755,
+      "Jolly Rogers": -1.6745942251680948,
+      "Temper & Friends": 31.19257678180443,
+      "NGU eSports": 28.765055518186436,
+      "Howl Esports": -20.60095095876067,
+      "Xibalbá Esports": -48.06714056149986,
+      "The Forbidden Five": -107.05770792953157,
+      "Vancouver Impact": -95.8748104281634,
+      "Caldya Esport": -25.03886350526153,
+      "Alpha7 Esports": -25.99948000718021,
+      "e-Champ Gaming": -11.802121670045237,
+      "Orzeł Barcząca Esports": -13.008356746812366,
+      "Andromeda Gaming": -31.041756068318822,
+      "Priority": -69.17090893279143,
+      "BERZLOY": 14.432472349423838,
+      "Barcząca Esports": 10.971140953059233,
+      "Natus Vincere": -65.0973476665998,
+      "Diver (Portuguese Team)": -41.45807446973323,
+      "Team High Ground": -33.69391963989732,
+      "Papo Secos": -7.547641514529472,
+      "Rage Bait e-Sports": -11.049271179131534,
+      "Evolve eSports": -45.64402194689678,
+      "Otter Side": 92.55799701399391,
+      "REDPack Esports": -21.502827469762536,
+      "NextGeneration Esports": -38.15204472304257,
+      "Karam El Sham": -29.770795906613554,
+      "Zer0 Trein0": -49.2847600559846,
+      "Zenshi Gaming": -5.400889934691352,
+      "7REX": 24.546227105076994,
+      "Cusprills": 43.98440383887692,
+      "Kaeru Gyuangu": -24.585820773335243,
+      "NEO ZEPHYR": -11.400862202522058,
+      "LEO Esports": -0.21245389025960387,
+      "Bastu Five": -23.923600872874893,
+      "B2U": 1.829534479378003,
+      "Venomcrest Serpents": 0.09234004360653479,
+      "CNG Royal": -23.652993418633127,
+      "AaB Esport": -23.179142735436535,
+      "Fortress Esports": 2.8898733212163084,
+      "LEO": 91.1576251537683,
+      "Saving OCE": -23.1014595766874,
+      "Inferno Esports": 10.080381527269287,
+      "LEGACY5": -8.258177930725886,
+      "Japan (National Team)": -17.618676362560414,
+      "ZSM": -30.947102526963562,
+      "FRK": -18.39099503337114,
+      "Deacoy": 0.0,
+      "P11 Esports": 0.0,
+      "HMBLE": 0.0,
+      "Frites Esports Club": 0.0,
+      "The Bandits": 0.0,
+      "ALMO Players": 0.0,
+      "4 Swines & A Bum": 0.0,
+      "Deer Gaming": 0.0,
+      "La BOMBAS": 0.0,
+      "Arctic Pandas": 0.0,
+      "MVK Esports": 0.0,
+      "Shifters": 0.0,
+      "LØS": 0.0,
+      "PCIFIC Esports": 0.0,
+      "SU Esports": 0.0,
+      "G2 NORD": 0.0,
+      "Team Phoenix": 0.0,
+      "Zephyr Esport": 0.0,
+      "Yumeea": 0.0,
+      "S2G Esports": 0.0,
+      "French Flair": 0.0,
+      "Lausanne-Sport Esports": 0.0,
+      "Vitality Rising Bees": 0.0,
+      "Gity Meavedronu": 0.0,
+      "SPAXFAMILY": 0.0,
+      "TLN Pirates": 0.0,
+      "Galions Sharks": 0.0,
+      "ZYB Esport": 0.0,
+      "Observant Force": 0.0,
+      "Sentinels": 0.0,
+      "Arneb": 0.0,
+      "Fast8": 0.0,
+      "Uwinks": 0.0,
+      "CAG OSAKA": 0.0,
+      "UEC eSports PlusPlus": 0.0,
+      "NOVEX": 0.0,
+      "New Meta": 0.0,
+      "Inferno Drive Tokyo": 0.0,
+      "Rising Gaming": 0.0,
+      "L Guide Gaming": 0.0,
+      "Revolution Victory X": 0.0,
+      "Epitomy Masters": 0.0,
+      "The AstroDucks": 0.0,
+      "Macko Academy": 0.0,
+      "4 Employed e 1 Budino": 0.0,
+      "Epitomy Crash": 0.0,
+      "Huskies Esports": 0.0,
+      "Epitomy Esports": 0.0
+    },
+    "games_played": {
+      "LNG Esports": 163,
+      "Rare Atom": 71,
+      "JD Gaming": 262,
+      "Top Esports": 314,
+      "Ninjas in Pyjamas": 239,
+      "Bilibili Gaming": 328,
+      "BoostGate Esports": 163,
+      "Dark Passage": 73,
+      "Auronin": 5,
+      "NONAMES (Turkish Team)": 3,
+      "Misa Esports": 165,
+      "FUT Esports": 68,
+      "Easier to Run": 3,
+      "BAU Esports": 3,
+      "NASR eSports Turkey": 47,
+      "Beşiktaş Esports": 139,
+      "Karasuno": 3,
+      "Lynch Esports": 13,
+      "Galakticos": 49,
+      "Papara SuperMassive": 154,
+      "Ascendance": 3,
+      "IMU Beyond": 3,
+      "Team BDS": 131,
+      "G2 Esports": 228,
+      "Rogue": 58,
+      "SK Gaming": 89,
+      "Karmine Corp": 145,
+      "Fnatic": 192,
+      "Team Vitality": 98,
+      "GiantX": 105,
+      "MAD Lions KOI": 85,
+      "Team Heretics": 99,
+      "DRX Challengers": 228,
+      "BNK FEARX Youth": 252,
+      "ION Global Esports": 39,
+      "FURY Global": 32,
+      "Nongshim Esports Academy": 207,
+      "Gen.G Global Academy": 219,
+      "Team Bliss": 60,
+      "Dire Wolves": 31,
+      "KT Rolster Challengers": 247,
+      "HANJIN BRION Challengers": 189,
+      "Ground Zero Gaming": 57,
+      "Kanga Esports": 32,
+      "Hanwha Life Esports Challengers": 211,
+      "Dplus Kia Challengers": 231,
+      "DN SOOPers Challengers": 243,
+      "T1 Esports Academy": 252,
+      "GRP Esports": 33,
+      "Forsaken": 157,
+      "devils.one": 42,
+      "Team ESCA Gaming": 14,
+      "Orbit Anonymo Esports": 94,
+      "Iron Wolves": 27,
+      "Zero Tenacity": 232,
+      "Back2TheGame": 179,
+      "Movistar R7": 81,
+      "Estral Esports": 14,
+      "inf": 97,
+      "Isurus": 24,
+      "DRX": 189,
+      "Nongshim RedForce": 235,
+      "Gen.G": 311,
+      "T1": 368,
+      "NNO Prime": 92,
+      "SK Gaming Prime": 82,
+      "Barça eSports": 193,
+      "Case Esports": 27,
+      "BK ROG Esports": 175,
+      "Karmine Corp Blue": 214,
+      "Aegis": 50,
+      "Team GO": 86,
+      "Ramboot Club": 112,
+      "Rebels Gaming": 40,
+      "Eintracht Frankfurt": 104,
+      "Austrian Force willhaben": 126,
+      "UCAM Esports": 121,
+      "Guasones": 93,
+      "Vitality.Bee": 175,
+      "Team BDS Academy": 145,
+      "Unicorns of Love Sexy Edition": 186,
+      "Eintracht Spandau": 143,
+      "Los Heretics": 209,
+      "GIANTX iTero": 158,
+      "Solary": 113,
+      "Gentle Mates": 166,
+      "MOUZ NXT": 53,
+      "E WIE EINFACH E-SPORTS": 127,
+      "ZETA": 71,
+      "Movistar KOI": 109,
+      "Team du Sud": 39,
+      "GameWard": 96,
+      "Berlin International Gaming": 173,
+      "FC Schalke 04 Esports": 69,
+      "Leviatan": 40,
+      "Six Karma": 50,
+      "HANJIN BRION": 201,
+      "Dplus Kia": 303,
+      "KT Rolster": 247,
+      "BNK FEARX": 222,
+      "All Knights": 38,
+      "Hanwha Life Esports": 305,
+      "Beyond Gaming": 38,
+      "CTBC Flying Oyster": 190,
+      "DN SOOPers": 191,
+      "West Point Esports": 129,
+      "Deep Cross Gaming": 6,
+      "Burning Core Toyama": 93,
+      "QT DIG∞": 123,
+      "Frank Esports": 197,
+      "J Team": 56,
+      "Team Secret": 70,
+      "MGN Vikings Esports": 170,
+      "Fukuoka SoftBank HAWKS gaming": 147,
+      "DetonatioN FocusMe": 134,
+      "PSG Talon": 191,
+      "HELL PIGS": 96,
+      "MGN Blue Esports": 59,
+      "Rainbow Warriors": 24,
+      "AXIZ CREST": 42,
+      "V3 Esports": 81,
+      "LOUD": 126,
+      "KaBuM! Esports": 44,
+      "Vivo Keyd Stars": 140,
+      "Los Grandes": 89,
+      "Fluxo": 45,
+      "FURIA": 120,
+      "Liberty": 36,
+      "INTZ": 36,
+      "Team Liquid": 157,
+      "100 Thieves": 141,
+      "RED Canids": 127,
+      "paiN Gaming": 143,
+      "Cloud9": 122,
+      "NRG": 44,
+      "FlyQuest": 179,
+      "Shopify Rebellion": 93,
+      "Dignitas": 87,
+      "Immortals": 29,
+      "Disguised": 47,
+      "FlyQuest NZXT": 72,
+      "Team Liquid Challengers": 62,
+      "Wildcard Gaming": 26,
+      "Team Flash": 101,
+      "CERBERUS Esports": 56,
+      "Team Whales": 76,
+      "GAM Esports": 198,
+      "Cincinnati Fear": 35,
+      "Mirage Alliance": 27,
+      "Area of Effect Esports": 66,
+      "Maryville University": 41,
+      "MAMMOTH": 26,
+      "Royal Never Give Up": 98,
+      "EDward Gaming": 147,
+      "Oh My God": 123,
+      "Team WE": 217,
+      "Antic Esports": 56,
+      "Anyone's Legend": 269,
+      "FunPlus Phoenix": 201,
+      "GLORE": 118,
+      "Team UNiTY": 144,
+      "BRUTE": 78,
+      "Europe Saviors Club": 13,
+      "Team Mythic": 8,
+      "Team Refuse": 61,
+      "Dynamo Eclot": 94,
+      "Entropiq": 185,
+      "Once Upon A Team": 86,
+      "Team 7AM": 3,
+      "OGC Sigma Esports": 18,
+      "eSuba": 154,
+      "Team Phantasma": 168,
+      "Zerolag Esports": 70,
+      "A One Man Army": 97,
+      "ZennIT": 133,
+      "Gamespace Mediterranean College Esports": 163,
+      "Wild Panthers Esports": 40,
+      "SNOOZE Esports": 50,
+      "Myth Esports": 101,
+      "WLGaming Esports": 111,
+      "Anorthosis Famagusta Esports": 74,
+      "Dynasty": 33,
+      "mCon esports": 130,
+      "LGD Gaming": 158,
+      "Ultra Prime": 149,
+      "Invictus Gaming": 234,
+      "NORD Esports": 117,
+      "Nativz": 36,
+      "Lionscreed": 28,
+      "DMG Esports": 87,
+      "Venomcrest Esports": 100,
+      "Lundqvist Lightside": 75,
+      "Verdant": 113,
+      "Ruddy Corporation": 115,
+      "Weibo Gaming": 291,
+      "ThunderTalk Gaming": 179,
+      "Macko Esports": 98,
+      "aNc Outplayed": 32,
+      "DSYRE": 61,
+      "EKO Esports": 71,
+      "BWE Esports": 31,
+      "Keypulse Esports": 49,
+      "ENEMI3S": 27,
+      "Atleta Esport": 46,
+      "Odivelas Sports Club": 82,
+      "Hurricane of Feathers": 58,
+      "DREN Esports": 20,
+      "Axolotl": 80,
+      "EGN Esports": 53,
+      "SAW": 22,
+      "White Dragons": 45,
+      "GTZ Esports": 105,
+      "Oh My God Academy": 61,
+      "Bilibili Gaming Junior": 82,
+      "Ji Jie Hao (集结号)": 54,
+      "Anyone's Legend.Young": 76,
+      "EDG Youth Team": 82,
+      "Rare Atom Period": 45,
+      "FunPlus Phoenix Blaze": 62,
+      "ThunderTalk Gaming Young": 73,
+      "Ultra Prime Academy": 46,
+      "Top Esports Challenger": 75,
+      "Joy Dream": 71,
+      "Team WE Academy": 52,
+      "LGD Gaming Young Team": 78,
+      "LNG Academy": 75,
+      "Weibo Gaming Youth Team": 62,
+      "Royal Club": 64,
+      "Supernova": 109,
+      "LiT Esports": 32,
+      "Lupus Esports": 61,
+      "Ankora Gaming": 32,
+      "Partizan Esports": 79,
+      "Diamant Esports": 35,
+      "SPIKE Syndicate": 112,
+      "Crvena zvezda Esports": 138,
+      "Invictus Gaming Young": 76,
+      "MAX": 52,
+      "MiaoJing (妙竞)": 50,
+      "Cyber Wolves": 32,
+      "BeFive": 114,
+      "One Way Esports": 3,
+      "Liberty Academy": 39,
+      "FURIA Youth": 57,
+      "paiN Gaming Academy": 72,
+      "Los Grandes Academy": 28,
+      "KaBuM! Academy": 52,
+      "RED Academy": 81,
+      "Flamengo Academy": 30,
+      "LOUD Academy": 49,
+      "Fluxo Academy": 31,
+      "INTZ Academy": 28,
+      "XV eSports": 27,
+      "Vivo Keyd Stars Academy": 127,
+      "Geekay Esports": 177,
+      "One More Esports": 96,
+      "RA'AD": 34,
+      "Anubis Gaming": 110,
+      "Fox Gaming": 91,
+      "GnG Amazigh": 118,
+      "Twisted Minds": 43,
+      "Nigma Galaxy": 99,
+      "KRC Genk Esports": 34,
+      "Team Legion": 6,
+      "FLY5": 33,
+      "Maverix": 21,
+      "Team Meliora": 29,
+      "H3ARTS": 7,
+      "EXILE esports": 38,
+      "Inside Games": 31,
+      "Esport STUBA": 9,
+      "Delta Syndicate": 89,
+      "AXIZ CREST Academy": 41,
+      "CTBC Flying Oyster Academy": 65,
+      "West Point Esports Academy": 53,
+      "PSG Talon Academy": 70,
+      "Impunity": 70,
+      "Hungkuang Falcon (弘光獵鷹)": 18,
+      "Deep Cross Gaming Academy": 53,
+      "V3 Esports Academy": 35,
+      "TNU Eagle (東南飛鷹)": 44,
+      "Frank Esports Academy": 67,
+      "Sengoku Gaming Academy": 19,
+      "DetonatioN FocusMe Academy": 48,
+      "Esprit Shōnen": 110,
+      "Lille Esport": 68,
+      "Project Conquerors": 103,
+      "Ici Japon Corp. Esport": 137,
+      "IziDream": 116,
+      "Klanik Esport": 38,
+      "Joblife": 87,
+      "Akroma": 31,
+      "MHSC Esport": 42,
+      "Zerance": 79,
+      "Dream Makers": 71,
+      "Veni Vidi Vici": 76,
+      "Guinea Pink": 86,
+      "Universae Instituto FP": 76,
+      "Kawaii Kiwis": 78,
+      "UCAM Esports Academy": 15,
+      "Erfolg Esports": 36,
+      "UnlockTan'i": 6,
+      "Chienhsin Bear (健行熊)": 57,
+      "PÊEK Gaming": 53,
+      "Tomorrow Esports": 24,
+      "Pirates IDV": 17,
+      "Osaka": 18,
+      "DSC3V": 19,
+      "Fuego": 90,
+      "Waia Snikt": 29,
+      "Janus Panter": 14,
+      "WAP Esports": 69,
+      "Eclipse Gaming": 19,
+      "Meta Gaming": 29,
+      "Undead Gaming": 33,
+      "Blue Otter": 100,
+      "Winthrop University": 84,
+      "PRIMATE": 36,
+      "Furious Gaming": 17,
+      "Malvinas Gaming": 34,
+      "Spectacled Bears": 21,
+      "CCG Esports": 79,
+      "University of Mississippi": 5,
+      "International Esports Industry Center": 2,
+      "Bees Hum": 2,
+      "Flamengo MDL": 18,
+      "CORE 128": 40,
+      "Team GMask": 14,
+      "Tan'i eSports": 16,
+      "BGA eQuizers": 21,
+      "Laffson's gang": 10,
+      "Zennox Gaming": 6,
+      "Repre Gold": 10,
+      "PaiN Gaming Ignis": 9,
+      "IME Wolves": 4,
+      "Laranja Mecânica Ignis": 4,
+      "Coven": 10,
+      "Rise Gaming Ignis": 28,
+      "Izanagi Ignis": 6,
+      "Vivo Keyd Stars Ignis": 20,
+      "Geração Estrutura": 9,
+      "BNK FEARX Academy": 115,
+      "DRX Academy": 132,
+      "Dplus Kia Youth": 207,
+      "HANJIN BRION Academy": 125,
+      "Nongshim RedForce Academy": 163,
+      "KT Rolster Academy": 134,
+      "DN SOOPers Academy": 183,
+      "Gen.G Scholars": 131,
+      "Hanwha Life Esports Academy": 171,
+      "T1 Esports Academy Rookies": 195,
+      "Team Paradox": 71,
+      "LUA Gaming": 83,
+      "SAMCLAN Esports Club": 16,
+      "Burning Core Toyama Academy": 21,
+      "Diversion Gaming": 89,
+      "Parakeet Gaming": 24,
+      "OGC Esports": 25,
+      "Ilha das Lendas": 26,
+      "Rise Gaming": 61,
+      "Tropa Raizen": 13,
+      "BlueWhites": 39,
+      "LODIS": 59,
+      "Team Anomaly Breaker": 3,
+      "Seven Dark": 30,
+      "Dragonsteel": 35,
+      "Fear x Starforge": 57,
+      "PepePo": 7,
+      "Dragoon's Goons": 34,
+      "Nightblood Gaming": 5,
+      "Gentle Hearts Gaming": 15,
+      "Gravity": 7,
+      "Black Rock Esports": 14,
+      "Pulse Star": 63,
+      "Next Level Esports": 4,
+      "Contingent Esports": 9,
+      "Apex Mission Impossible": 52,
+      "Castle Berry": 8,
+      "DUCKIE GETTERS": 27,
+      "Lotus": 35,
+      "grompcord": 9,
+      "WANG TOWN": 9,
+      "Nigel's Last Tiles": 4,
+      "Lotus Knights": 5,
+      "Team Insidious": 71,
+      "SINS Esports": 12,
+      "Actions Per Minute": 57,
+      "DELTALAND": 9,
+      "The Gulls Esports": 8,
+      "GMBLERS Esports": 69,
+      "PepeTinkyWinky": 5,
+      "L’art de la Guerre": 6,
+      "Pee N W's": 7,
+      "Komodo": 13,
+      "Maelstrom Esports": 7,
+      "ReluminateGG": 11,
+      "Guangdong Flying Tigers": 8,
+      "MIBR": 11,
+      "eWolves Ignis": 4,
+      "Comanchero Gaming": 18,
+      "NONAME": 25,
+      "Spinebusters E-Sport": 7,
+      "Jörmungang": 61,
+      "Pertinax Esports": 17,
+      "Stormbringers": 7,
+      "Kaufland Hangry Knights": 92,
+      "Dutch Community Team": 9,
+      "Aurora": 58,
+      "Leões Porto Salvo Esports": 28,
+      "ZeroZone Gaming": 19,
+      "Rich Gang": 43,
+      "Twareg Esports": 6,
+      "Juicy Ballers": 12,
+      "BAAM Esports": 80,
+      "Fog Esports": 67,
+      "Ukrainian Glory Team": 3,
+      "Packmiko E-Sports": 8,
+      "42 Gaming": 14,
+      "Fourth Wall": 8,
+      "Nameless (French Team)": 13,
+      "HUGE Esport": 2,
+      "FlameHard": 59,
+      "Kafard Academie": 2,
+      "Le Pouvoir de l'Amitié": 6,
+      "AIX eSports": 5,
+      "Andromeda Nebula": 6,
+      "All for One Gaming": 8,
+      "DKB XPERION NXT": 28,
+      "RNL ROAR": 6,
+      "ROSSMANN Centaurs": 109,
+      "TeamOrangeGaming": 87,
+      "Team Mentality": 12,
+      "Foxnyr Esports": 6,
+      "Wstyd Easta": 7,
+      "EXILE esports Academy": 7,
+      "Diversion Academy": 5,
+      "VININE": 9,
+      "Entropy x Teufel": 6,
+      "KIA.eSuba Academy": 90,
+      "Esport STUBA Academy": 4,
+      "Kiedyś Miałem Fun": 46,
+      "Ethereal Enigmas": 70,
+      "EPIC-DUDES": 6,
+      "DKB XPERION NXT RAW": 8,
+      "AceGaming Spades": 6,
+      "regnum4games": 9,
+      "VfB eSports": 9,
+      "Frontier x Veni": 6,
+      "eSports Cologne e.V.": 8,
+      "Brod and Friends": 4,
+      "Regem": 12,
+      "AGALAR": 6,
+      "Bootz Gaming": 6,
+      "Direct Rising eSports": 6,
+      "WeSports": 8,
+      "AvaTrade PixelPenny": 3,
+      "INT Esports": 7,
+      "PARAGON (British Team)": 4,
+      "Joker Strike": 6,
+      "Epic Avalanche": 9,
+      "6AM": 9,
+      "Only Heroes Academia": 4,
+      "Dusty": 5,
+      "Bitfix Gaming": 6,
+      "Brod n Friends": 6,
+      "Team Axelent69": 10,
+      "Phoenix Esports": 7,
+      "Hazing Chase": 10,
+      "Athen Warrior": 5,
+      "Ahriro": 4,
+      "FoxFire": 8,
+      "Spartans EU": 2,
+      "Paranormal Invaders": 1,
+      "Ionikos Nikaias Esports": 2,
+      "24/7 Tower Dive": 17,
+      "Infernal Wolves": 9,
+      "Mind Blue Futures": 4,
+      "StriX (Belgian Team)": 11,
+      "Top 1 Benelux": 25,
+      "RQS Esports": 18,
+      "ATK Esports": 12,
+      "ESEV Zephyr Ares": 6,
+      "RED OUAT": 23,
+      "Coinflip to Victory": 5,
+      "Team Shrimp": 17,
+      "Fight For Ever": 11,
+      "Emrys Esports White": 5,
+      "Jörmungang Academy": 7,
+      "Gamers404": 2,
+      "Mind Blue eSports": 8,
+      "CIS Falling Stars": 2,
+      "eQuizers": 28,
+      "Team DX": 3,
+      "R5 Esports": 3,
+      "UCAM University Esports": 2,
+      "Oxygen Gaming": 5,
+      "Ceuta Guardians": 6,
+      "Melilla Titans": 13,
+      "Green Dolphin Gaming": 38,
+      "Malvinas Gaming EU": 8,
+      "PRINCIPALITY": 18,
+      "La Alta Parroquia": 2,
+      "Heracles Gaming": 7,
+      "Fortune Makers": 3,
+      "KAOS e-sport": 50,
+      "Lazy In Life": 14,
+      "UniQ Esports Club": 22,
+      "Garden Gaming": 16,
+      "RIP MAMBERROI": 2,
+      "Falke Esports": 53,
+      "Ruzeh Esports": 10,
+      "Senshi eSports": 65,
+      "Bad Day": 2,
+      "Banshee": 5,
+      "Winter (Brazilian Team)": 2,
+      "Chinese Taipei (National Team)": 9,
+      "Vietnam (National Team)": 9,
+      "Team Valiant": 46,
+      "Skillcamp": 52,
+      "Karmine Corp Blue Stars": 42,
+      "Movistar KOI Fénix": 50,
+      "Los Ratones": 109,
+      "Bulldog Esports": 46,
+      "Team Secret Whales": 78,
+      "Chiefs Esports Club": 51,
+      "Dung Dynasty": 26,
+      "Zena Esports": 55,
+      "Underworld Esports": 16,
+      "Galions": 86,
+      "BBL Dark Passage": 53,
+      "ULF Esports": 85,
+      "Mighty Eagles": 8,
+      "Bushido Wildcats": 71,
+      "Eternal Fire": 36,
+      "Meavedron": 85,
+      "Divernex": 38,
+      "CITA Kaizen": 38,
+      "REJECT": 60,
+      "We Can Win": 11,
+      "Black Dog": 10,
+      "VelbeliKaizokudan": 38,
+      "Spirit Quartz Gaming": 34,
+      "Night Cap": 12,
+      "Kareha Children": 43,
+      "Hands": 28,
+      "Yang Yang Gaming": 56,
+      "VARREL YOUTH": 51,
+      "Clocks": 48,
+      "BraVeLY": 42,
+      "VeLocitY (Japanese Team)": 9,
+      "LYON": 33,
+      "Isurus Estral": 38,
+      "Fluxo W7M": 30,
+      "MY STAR": 34,
+      "Monta Club": 34,
+      "Fractious eSports": 12,
+      "Dark Roses": 6,
+      "Gwenchana": 10,
+      "RATZ": 29,
+      "Dopamina E-Sport": 33,
+      "Corinthians Esports": 52,
+      "Ligre Gaming": 5,
+      "Dynamo Eclot Talents": 29,
+      "Nightbirds": 82,
+      "Tan'i eSports CZ": 58,
+      "Str1ve eSports": 2,
+      "NORTHS FURY": 9,
+      "Crusaders": 23,
+      "5M Esports": 2,
+      "For The Win Esports": 26,
+      "Grow uP eSports": 12,
+      "Berimbados": 2,
+      "Lenovo Legion Honvéd": 30,
+      "The Secret Club": 27,
+      "Fantastic Esports": 6,
+      "Magaza Esports": 14,
+      "ΣΤΕΝΑΧΩΡΕΜΕΝΟΙ": 4,
+      "Saigon Dino": 51,
+      "SN CyberCore Esports": 28,
+      "Hyper Vortex Esports": 14,
+      "Silent Storm Esports": 10,
+      "Saigon Secret": 37,
+      "Hanoi Rookies Esports": 12,
+      "Never Give Up": 26,
+      "PaiDA Miwan Bao": 1,
+      "Sponge Gaming": 10,
+      "wangting": 58,
+      "JY Gaming": 2,
+      "No Barry Berry": 5,
+      "Kyo eSports": 7,
+      "Team Tockers": 1,
+      "Team Revolta": 1,
+      "Stellae Gaming": 46,
+      "KaBuM! Ilha das Lendas": 53,
+      "Dream in 24": 40,
+      "Radical Pop Gaming": 22,
+      "BloomStorm": 10,
+      "Deltan Gaming": 37,
+      "Farenvehn": 9,
+      "Maze Gaming": 47,
+      "Team Evermeet": 22,
+      "Icon Esports": 17,
+      "ODD Esports": 36,
+      "SDM Tigres": 6,
+      "Conviction": 5,
+      "Near Airport": 38,
+      "Luminosity Gaming": 13,
+      "DarkZero Dragonsteel": 53,
+      "LYON Academy": 31,
+      "Zeu5 Esports": 43,
+      "GOAL": 30,
+      "Sicar Esports": 3,
+      "aNc Legends": 30,
+      "Colossal Gaming": 47,
+      "Metin2 Enjoyers": 2,
+      "AKA HERO": 3,
+      "Münster Esports - Golden Goats": 2,
+      "A One Man Army Prime": 9,
+      "Broke": 2,
+      "A One Man Army Prime Academy": 2,
+      "htp eSport Akademie Hannover": 4,
+      "Human Apex Predator": 4,
+      "DOCISK": 32,
+      "Partizan Sangal": 70,
+      "StormMedia Fajnie Mieć Skład": 73,
+      "Connect Arena Esports": 16,
+      "Footprint Gaming": 3,
+      "Permitta eSports": 5,
+      "SK Gaming Avarosa": 2,
+      "KrabbelGruppeAlpha": 2,
+      "Void Requiem": 3,
+      "Black Lion": 2,
+      "TeamOrangeGaming Academy": 7,
+      "Nice Try": 9,
+      "CGN Esports": 40,
+      "LittleSans": 5,
+      "G2 Hel": 31,
+      "Sportia Khore": 2,
+      "Evil genius": 7,
+      "HST": 4,
+      "Apex Predator": 5,
+      "Venus Gaming": 6,
+      "GenZ Gaming": 14,
+      "Mila Gaming": 16,
+      "HUTECH CHICKEN": 5,
+      "Mental Over Tempo": 10,
+      "Bamboo Juice": 18,
+      "Vortex (Japanese Team)": 17,
+      "Nocturne Gale": 14,
+      "Gaming Barcelona": 18,
+      "MGN Vikings Academy": 27,
+      "Dragons Esports": 48,
+      "3BL Esports": 7,
+      "FN Esports": 27,
+      "DCT eSports": 10,
+      "Team Blaze 1": 2,
+      "FUSION (Latin American Team)": 9,
+      "Soul's Heart Esport": 5,
+      "Golden Lions": 22,
+      "Tigers eSports": 6,
+      "Paputs Gaming": 5,
+      "Lechuga Gaming": 16,
+      "Contrata Logo Meu Time": 14,
+      "ZGDX Gaming": 10,
+      "Citadel Gaming": 20,
+      "Cupid Esports": 17,
+      "Dorado Gaming": 24,
+      "Jolly Rogers": 11,
+      "Temper & Friends": 3,
+      "NGU eSports": 3,
+      "Howl Esports": 7,
+      "Xibalbá Esports": 5,
+      "The Forbidden Five": 14,
+      "Vancouver Impact": 14,
+      "Caldya Esport": 17,
+      "Alpha7 Esports": 15,
+      "e-Champ Gaming": 17,
+      "Orzeł Barcząca Esports": 5,
+      "Andromeda Gaming": 23,
+      "Priority": 16,
+      "BERZLOY": 4,
+      "Barcząca Esports": 16,
+      "Natus Vincere": 8,
+      "Diver (Portuguese Team)": 8,
+      "Team High Ground": 5,
+      "Papo Secos": 7,
+      "Rage Bait e-Sports": 7,
+      "Evolve eSports": 4,
+      "Otter Side": 22,
+      "REDPack Esports": 5,
+      "NextGeneration Esports": 10,
+      "Karam El Sham": 3,
+      "Zer0 Trein0": 10,
+      "Zenshi Gaming": 11,
+      "7REX": 10,
+      "Cusprills": 15,
+      "Kaeru Gyuangu": 15,
+      "NEO ZEPHYR": 5,
+      "LEO Esports": 2,
+      "Bastu Five": 4,
+      "B2U": 8,
+      "Venomcrest Serpents": 4,
+      "CNG Royal": 4,
+      "AaB Esport": 4,
+      "Fortress Esports": 12,
+      "LEO": 15,
+      "Saving OCE": 4,
+      "Inferno Esports": 7,
+      "LEGACY5": 2,
+      "Japan (National Team)": 3,
+      "ZSM": 4,
+      "FRK": 2,
+      "Deacoy": 0,
+      "P11 Esports": 0,
+      "HMBLE": 0,
+      "Frites Esports Club": 0,
+      "The Bandits": 0,
+      "ALMO Players": 0,
+      "4 Swines & A Bum": 0,
+      "Deer Gaming": 0,
+      "La BOMBAS": 0,
+      "Arctic Pandas": 0,
+      "MVK Esports": 0,
+      "Shifters": 0,
+      "LØS": 0,
+      "PCIFIC Esports": 0,
+      "SU Esports": 0,
+      "G2 NORD": 0,
+      "Team Phoenix": 0,
+      "Zephyr Esport": 0,
+      "Yumeea": 0,
+      "S2G Esports": 0,
+      "French Flair": 0,
+      "Lausanne-Sport Esports": 0,
+      "Vitality Rising Bees": 0,
+      "Gity Meavedronu": 0,
+      "SPAXFAMILY": 0,
+      "TLN Pirates": 0,
+      "Galions Sharks": 0,
+      "ZYB Esport": 0,
+      "Observant Force": 0,
+      "Sentinels": 0,
+      "Arneb": 0,
+      "Fast8": 0,
+      "Uwinks": 0,
+      "CAG OSAKA": 0,
+      "UEC eSports PlusPlus": 0,
+      "NOVEX": 0,
+      "New Meta": 0,
+      "Inferno Drive Tokyo": 0,
+      "Rising Gaming": 0,
+      "L Guide Gaming": 0,
+      "Revolution Victory X": 0,
+      "Epitomy Masters": 0,
+      "The AstroDucks": 0,
+      "Macko Academy": 0,
+      "4 Employed e 1 Budino": 0,
+      "Epitomy Crash": 0,
+      "Huskies Esports": 0,
+      "Epitomy Esports": 0
+    },
+    "league_strength": {
+      "DCup": -17.580926625512824,
+      "TCL": 50.59076018765475,
+      "TSC": -47.48037284797524,
+      "LEC": -14.556234756016906,
+      "LCKC": 88.57302375759095,
+      "LCO": -25.62068699132443,
+      "UL": -7.919426483175003,
+      "EPL": 22.699103131221467,
+      "LLA": -15.892922188407457,
+      "LCK": 79.1467352473902,
+      "PRM": 118.1989988054842,
+      "LVP SL": 86.27766035880921,
+      "LFL": 137.62725511761303,
+      "PCS": -10.700492424204345,
+      "LJL": -72.88684918692992,
+      "VCS": -38.49765304691027,
+      "CBLOL": -9.19803105000798,
+      "LCS": 17.35073372800158,
+      "NACL": 16.976113839245922,
+      "LPL": 16.70212550402154,
+      "HM": -73.03557694858942,
+      "GLL": 4.800127107601629,
+      "ESLOL": -45.27084928121229,
+      "NLC": -38.44153238896359,
+      "LIT": -8.484328373726232,
+      "LPLOL": -66.78077327663895,
+      "LDL": 0.6344702527878718,
+      "EBL": -100.14580228252986,
+      "CBLOLA": 0.16076755022680184,
+      "AL": 22.112012664369697,
+      "HC": 20.161638847037754,
+      "PCL": 0.6344702527878718,
+      "LFL2": -15.695296381926276,
+      "NEXO": -51.80286306637018,
+      "LRN": -3.856334927838403,
+      "LRS": -10.836620721835928,
+      "CT": 39.86155568753968,
+      "IGNIS": 0.6344702527878718,
+      "LAS": 0.6344702527878718,
+      "HLL": -20.511982202608277,
+      "ROL": 12.906363773886461,
+      "RL": 11.607090804875355,
+      "CDF": -5.69807146927496,
+      "PRMP": -82.95585437462287,
+      "USP": 14.963996792163403,
+      "HW": -44.08546437716948,
+      "NLC Aurora Open": -16.948291363135578,
+      "EBLPA": 33.36053639237413,
+      "GLLPA": -36.75341898126471,
+      "IC": -24.78573903130814,
+      "KeSPA": 42.688778775922486,
+      "EM": 104.19431083327883,
+      "LCP": -37.50226784972599,
+      "LTA S": -26.42957029133303,
+      "LTA N": 17.010374002779322,
+      "CD": 0.6344702527878718,
+      "Asia Master": 9.211819017510837,
+      "CCWS": 0.0
+    },
+    "tier_strength": {
+      "MINOR": -35.174409961315696,
+      "ERL": 59.35916198593459,
+      "T1": 38.92339667133842,
+      "T2": -63.10814869595732
+    },
+    "side_adv_points": 0.0,
+    "team_meta": {
+      "LNG Esports": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Rare Atom": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "JD Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Top Esports": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Ninjas in Pyjamas": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Bilibili Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "BoostGate Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Dark Passage": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Auronin": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "NONAMES (Turkish Team)": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Misa Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "FUT Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Easier to Run": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "BAU Esports": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "NASR eSports Turkey": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Beşiktaş Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Karasuno": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Lynch Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Galakticos": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Papara SuperMassive": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Ascendance": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "IMU Beyond": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Team BDS": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "G2 Esports": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Rogue": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "SK Gaming": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Karmine Corp": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Fnatic": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Team Vitality": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "GiantX": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "MAD Lions KOI": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Team Heretics": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "DRX Challengers": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "BNK FEARX Youth": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "ION Global Esports": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "FURY Global": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "Nongshim Esports Academy": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "Gen.G Global Academy": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "Team Bliss": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "Dire Wolves": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "KT Rolster Challengers": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "HANJIN BRION Challengers": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "Ground Zero Gaming": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Kanga Esports": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "Hanwha Life Esports Challengers": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "Dplus Kia Challengers": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "DN SOOPers Challengers": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "T1 Esports Academy": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "GRP Esports": {
+        "league": "UL",
+        "tier": "MINOR"
+      },
+      "Forsaken": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "devils.one": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Team ESCA Gaming": {
+        "league": "UL",
+        "tier": "MINOR"
+      },
+      "Orbit Anonymo Esports": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Iron Wolves": {
+        "league": "UL",
+        "tier": "MINOR"
+      },
+      "Zero Tenacity": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Back2TheGame": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Movistar R7": {
+        "league": "LLA",
+        "tier": "MINOR"
+      },
+      "Estral Esports": {
+        "league": "LTA N",
+        "tier": "T2"
+      },
+      "inf": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Isurus": {
+        "league": "LTA S",
+        "tier": "T2"
+      },
+      "DRX": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "Nongshim RedForce": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "Gen.G": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "T1": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "NNO Prime": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "SK Gaming Prime": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "Barça eSports": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Case Esports": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "BK ROG Esports": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Karmine Corp Blue": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Aegis": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Team GO": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Ramboot Club": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Rebels Gaming": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Eintracht Frankfurt": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "Austrian Force willhaben": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "UCAM Esports": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Guasones": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Vitality.Bee": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Team BDS Academy": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Unicorns of Love Sexy Edition": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "Eintracht Spandau": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "Los Heretics": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "GIANTX iTero": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Solary": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Gentle Mates": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "MOUZ NXT": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "E WIE EINFACH E-SPORTS": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "ZETA": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Movistar KOI": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Team du Sud": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "GameWard": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Berlin International Gaming": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "FC Schalke 04 Esports": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "Leviatan": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "Six Karma": {
+        "league": "LLA",
+        "tier": "MINOR"
+      },
+      "HANJIN BRION": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "Dplus Kia": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "KT Rolster": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "BNK FEARX": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "All Knights": {
+        "league": "LLA",
+        "tier": "MINOR"
+      },
+      "Hanwha Life Esports": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "Beyond Gaming": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "CTBC Flying Oyster": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "DN SOOPers": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "West Point Esports": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Deep Cross Gaming": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Burning Core Toyama": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "QT DIG∞": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Frank Esports": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "J Team": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Team Secret": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "MGN Vikings Esports": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Fukuoka SoftBank HAWKS gaming": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "DetonatioN FocusMe": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "PSG Talon": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "HELL PIGS": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "MGN Blue Esports": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Rainbow Warriors": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "AXIZ CREST": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "V3 Esports": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "LOUD": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "KaBuM! Esports": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "Vivo Keyd Stars": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "Los Grandes": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Fluxo": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "FURIA": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "Liberty": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "INTZ": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "Team Liquid": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "100 Thieves": {
+        "league": "LTA N",
+        "tier": "T2"
+      },
+      "RED Canids": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "paiN Gaming": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "Cloud9": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "NRG": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "FlyQuest": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "Shopify Rebellion": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "Dignitas": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "Immortals": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "Disguised": {
+        "league": "LTA N",
+        "tier": "T2"
+      },
+      "FlyQuest NZXT": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Team Liquid Challengers": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Wildcard Gaming": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Team Flash": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "CERBERUS Esports": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Team Whales": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "GAM Esports": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Cincinnati Fear": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Mirage Alliance": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Area of Effect Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Maryville University": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "MAMMOTH": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "Royal Never Give Up": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "EDward Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Oh My God": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Team WE": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Antic Esports": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "Anyone's Legend": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "FunPlus Phoenix": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "GLORE": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Team UNiTY": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "BRUTE": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Europe Saviors Club": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Team Mythic": {
+        "league": "GLL",
+        "tier": "MINOR"
+      },
+      "Team Refuse": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Dynamo Eclot": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Entropiq": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Once Upon A Team": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "Team 7AM": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "OGC Sigma Esports": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "eSuba": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Team Phantasma": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Zerolag Esports": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "A One Man Army": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "ZennIT": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "Gamespace Mediterranean College Esports": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Wild Panthers Esports": {
+        "league": "GLL",
+        "tier": "MINOR"
+      },
+      "SNOOZE Esports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Myth Esports": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "WLGaming Esports": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Anorthosis Famagusta Esports": {
+        "league": "GLL",
+        "tier": "MINOR"
+      },
+      "Dynasty": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "mCon esports": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "LGD Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Ultra Prime": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Invictus Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "NORD Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Nativz": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Lionscreed": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "DMG Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Venomcrest Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Lundqvist Lightside": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Verdant": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Ruddy Corporation": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Weibo Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "ThunderTalk Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Macko Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "aNc Outplayed": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "DSYRE": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "EKO Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "BWE Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Keypulse Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "ENEMI3S": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Atleta Esport": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Odivelas Sports Club": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Hurricane of Feathers": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "DREN Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Axolotl": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "EGN Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "SAW": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "White Dragons": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "GTZ Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Oh My God Academy": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Bilibili Gaming Junior": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Ji Jie Hao (集结号)": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "Anyone's Legend.Young": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "EDG Youth Team": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Rare Atom Period": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "FunPlus Phoenix Blaze": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "ThunderTalk Gaming Young": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Ultra Prime Academy": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "Top Esports Challenger": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Joy Dream": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "Team WE Academy": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "LGD Gaming Young Team": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "LNG Academy": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Weibo Gaming Youth Team": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Royal Club": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "Supernova": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "LiT Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Lupus Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Ankora Gaming": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Partizan Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Diamant Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "SPIKE Syndicate": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Crvena zvezda Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Invictus Gaming Young": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "MAX": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "MiaoJing (妙竞)": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "Cyber Wolves": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "BeFive": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "One Way Esports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Liberty Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "FURIA Youth": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "paiN Gaming Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "Los Grandes Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "KaBuM! Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "RED Academy": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Flamengo Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "LOUD Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "Fluxo Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "INTZ Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "XV eSports": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Vivo Keyd Stars Academy": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Geekay Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "One More Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "RA'AD": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Anubis Gaming": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Fox Gaming": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "GnG Amazigh": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Twisted Minds": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Nigma Galaxy": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "KRC Genk Esports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Team Legion": {
+        "league": "GLL",
+        "tier": "MINOR"
+      },
+      "FLY5": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "Maverix": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Team Meliora": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "H3ARTS": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "EXILE esports": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Inside Games": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Esport STUBA": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Delta Syndicate": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "AXIZ CREST Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "CTBC Flying Oyster Academy": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "West Point Esports Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "PSG Talon Academy": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Impunity": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "Hungkuang Falcon (弘光獵鷹)": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Deep Cross Gaming Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "V3 Esports Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "TNU Eagle (東南飛鷹)": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "Frank Esports Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "Sengoku Gaming Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "DetonatioN FocusMe Academy": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Esprit Shōnen": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Lille Esport": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Project Conquerors": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Ici Japon Corp. Esport": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "IziDream": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "Klanik Esport": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "Joblife": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Akroma": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "MHSC Esport": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "Zerance": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "Dream Makers": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Veni Vidi Vici": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Guinea Pink": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Universae Instituto FP": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Kawaii Kiwis": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "UCAM Esports Academy": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Erfolg Esports": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "UnlockTan'i": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Chienhsin Bear (健行熊)": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "PÊEK Gaming": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Tomorrow Esports": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Pirates IDV": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Osaka": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "DSC3V": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Fuego": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Waia Snikt": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Janus Panter": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "WAP Esports": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Eclipse Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Meta Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Undead Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Blue Otter": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Winthrop University": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "PRIMATE": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Furious Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Malvinas Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Spectacled Bears": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "CCG Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "University of Mississippi": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "International Esports Industry Center": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "Bees Hum": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "Flamengo MDL": {
+        "league": "LTA S",
+        "tier": "T2"
+      },
+      "CORE 128": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Team GMask": {
+        "league": "CT",
+        "tier": "MINOR"
+      },
+      "Tan'i eSports": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "BGA eQuizers": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Laffson's gang": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "Zennox Gaming": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "Repre Gold": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "PaiN Gaming Ignis": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "IME Wolves": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Laranja Mecânica Ignis": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Coven": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Rise Gaming Ignis": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Izanagi Ignis": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Vivo Keyd Stars Ignis": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Geração Estrutura": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "BNK FEARX Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "DRX Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "Dplus Kia Youth": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "HANJIN BRION Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "Nongshim RedForce Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "KT Rolster Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "DN SOOPers Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "Gen.G Scholars": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "Hanwha Life Esports Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "T1 Esports Academy Rookies": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "Team Paradox": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "LUA Gaming": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "SAMCLAN Esports Club": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Burning Core Toyama Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "Diversion Gaming": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Parakeet Gaming": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "OGC Esports": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Ilha das Lendas": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "Rise Gaming": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Tropa Raizen": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "BlueWhites": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "LODIS": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Team Anomaly Breaker": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Seven Dark": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Dragonsteel": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Fear x Starforge": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "PepePo": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Dragoon's Goons": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Nightblood Gaming": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Gentle Hearts Gaming": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Gravity": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Black Rock Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Pulse Star": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Next Level Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Contingent Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Apex Mission Impossible": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Castle Berry": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "DUCKIE GETTERS": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Lotus": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "grompcord": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "WANG TOWN": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Nigel's Last Tiles": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Lotus Knights": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Team Insidious": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "SINS Esports": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Actions Per Minute": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "DELTALAND": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "The Gulls Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "GMBLERS Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "PepeTinkyWinky": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "L’art de la Guerre": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Pee N W's": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Komodo": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Maelstrom Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "ReluminateGG": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Guangdong Flying Tigers": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "MIBR": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "eWolves Ignis": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Comanchero Gaming": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "NONAME": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Spinebusters E-Sport": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "Jörmungang": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "Pertinax Esports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Stormbringers": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Kaufland Hangry Knights": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "Dutch Community Team": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Aurora": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "Leões Porto Salvo Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "ZeroZone Gaming": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Rich Gang": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Twareg Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Juicy Ballers": {
+        "league": "UL",
+        "tier": "MINOR"
+      },
+      "BAAM Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Fog Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Ukrainian Glory Team": {
+        "league": "UL",
+        "tier": "MINOR"
+      },
+      "Packmiko E-Sports": {
+        "league": "UL",
+        "tier": "MINOR"
+      },
+      "42 Gaming": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Fourth Wall": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Nameless (French Team)": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "HUGE Esport": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "FlameHard": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Kafard Academie": {
+        "league": "CDF",
+        "tier": "MINOR"
+      },
+      "Le Pouvoir de l'Amitié": {
+        "league": "CDF",
+        "tier": "MINOR"
+      },
+      "AIX eSports": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Andromeda Nebula": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "All for One Gaming": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "DKB XPERION NXT": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "RNL ROAR": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "ROSSMANN Centaurs": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "TeamOrangeGaming": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "Team Mentality": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Foxnyr Esports": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Wstyd Easta": {
+        "league": "USP",
+        "tier": "MINOR"
+      },
+      "EXILE esports Academy": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Diversion Academy": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "VININE": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Entropy x Teufel": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "KIA.eSuba Academy": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Esport STUBA Academy": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Kiedyś Miałem Fun": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Ethereal Enigmas": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "EPIC-DUDES": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "DKB XPERION NXT RAW": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "AceGaming Spades": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "regnum4games": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "VfB eSports": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Frontier x Veni": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "eSports Cologne e.V.": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Brod and Friends": {
+        "league": "NLC Aurora Open",
+        "tier": "MINOR"
+      },
+      "Regem": {
+        "league": "NLC Aurora Open",
+        "tier": "MINOR"
+      },
+      "AGALAR": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Bootz Gaming": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Direct Rising eSports": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "WeSports": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "AvaTrade PixelPenny": {
+        "league": "USP",
+        "tier": "MINOR"
+      },
+      "INT Esports": {
+        "league": "NLC Aurora Open",
+        "tier": "MINOR"
+      },
+      "PARAGON (British Team)": {
+        "league": "NLC Aurora Open",
+        "tier": "MINOR"
+      },
+      "Joker Strike": {
+        "league": "USP",
+        "tier": "MINOR"
+      },
+      "Epic Avalanche": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "6AM": {
+        "league": "NLC Aurora Open",
+        "tier": "MINOR"
+      },
+      "Only Heroes Academia": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Dusty": {
+        "league": "NLC Aurora Open",
+        "tier": "MINOR"
+      },
+      "Bitfix Gaming": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Brod n Friends": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Team Axelent69": {
+        "league": "EBLPA",
+        "tier": "MINOR"
+      },
+      "Phoenix Esports": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Hazing Chase": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Athen Warrior": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Ahriro": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "FoxFire": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Spartans EU": {
+        "league": "GLLPA",
+        "tier": "MINOR"
+      },
+      "Paranormal Invaders": {
+        "league": "GLLPA",
+        "tier": "MINOR"
+      },
+      "Ionikos Nikaias Esports": {
+        "league": "GLLPA",
+        "tier": "MINOR"
+      },
+      "24/7 Tower Dive": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Infernal Wolves": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Mind Blue Futures": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "StriX (Belgian Team)": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Top 1 Benelux": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "RQS Esports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "ATK Esports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "ESEV Zephyr Ares": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "RED OUAT": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Coinflip to Victory": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Team Shrimp": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Fight For Ever": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Emrys Esports White": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Jörmungang Academy": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Gamers404": {
+        "league": "GLLPA",
+        "tier": "MINOR"
+      },
+      "Mind Blue eSports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "CIS Falling Stars": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "eQuizers": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Team DX": {
+        "league": "GLLPA",
+        "tier": "MINOR"
+      },
+      "R5 Esports": {
+        "league": "GLLPA",
+        "tier": "MINOR"
+      },
+      "UCAM University Esports": {
+        "league": "IC",
+        "tier": "MINOR"
+      },
+      "Oxygen Gaming": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Ceuta Guardians": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Melilla Titans": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Green Dolphin Gaming": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Malvinas Gaming EU": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "PRINCIPALITY": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "La Alta Parroquia": {
+        "league": "IC",
+        "tier": "MINOR"
+      },
+      "Heracles Gaming": {
+        "league": "IC",
+        "tier": "MINOR"
+      },
+      "Fortune Makers": {
+        "league": "IC",
+        "tier": "MINOR"
+      },
+      "KAOS e-sport": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Lazy In Life": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "UniQ Esports Club": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Garden Gaming": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "RIP MAMBERROI": {
+        "league": "IC",
+        "tier": "MINOR"
+      },
+      "Falke Esports": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Ruzeh Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Senshi eSports": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "Bad Day": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Banshee": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Winter (Brazilian Team)": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Chinese Taipei (National Team)": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "Vietnam (National Team)": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "Team Valiant": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "Skillcamp": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "Karmine Corp Blue Stars": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Movistar KOI Fénix": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Los Ratones": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Bulldog Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Team Secret Whales": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Chiefs Esports Club": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Dung Dynasty": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "Zena Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Underworld Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Galions": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "BBL Dark Passage": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "ULF Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Mighty Eagles": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Bushido Wildcats": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Eternal Fire": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Meavedron": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Divernex": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "CITA Kaizen": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "REJECT": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "We Can Win": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Black Dog": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "VelbeliKaizokudan": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Spirit Quartz Gaming": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Night Cap": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Kareha Children": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Hands": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Yang Yang Gaming": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "VARREL YOUTH": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Clocks": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "BraVeLY": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "VeLocitY (Japanese Team)": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "LYON": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "Isurus Estral": {
+        "league": "LTA S",
+        "tier": "T2"
+      },
+      "Fluxo W7M": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "MY STAR": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Monta Club": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Fractious eSports": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Dark Roses": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Gwenchana": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "RATZ": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Dopamina E-Sport": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Corinthians Esports": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Ligre Gaming": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Dynamo Eclot Talents": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "Nightbirds": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Tan'i eSports CZ": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Str1ve eSports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "NORTHS FURY": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Crusaders": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "5M Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "For The Win Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Grow uP eSports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Berimbados": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Lenovo Legion Honvéd": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "The Secret Club": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Fantastic Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Magaza Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "ΣΤΕΝΑΧΩΡΕΜΕΝΟΙ": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Saigon Dino": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "SN CyberCore Esports": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Hyper Vortex Esports": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Silent Storm Esports": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Saigon Secret": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Hanoi Rookies Esports": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Never Give Up": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "PaiDA Miwan Bao": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Sponge Gaming": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "wangting": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "JY Gaming": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "No Barry Berry": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Kyo eSports": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Team Tockers": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Team Revolta": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Stellae Gaming": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "KaBuM! Ilha das Lendas": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Dream in 24": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Radical Pop Gaming": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "BloomStorm": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Deltan Gaming": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Farenvehn": {
+        "league": "LTA S",
+        "tier": "T2"
+      },
+      "Maze Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Team Evermeet": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Icon Esports": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "ODD Esports": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "SDM Tigres": {
+        "league": "LTA N",
+        "tier": "T2"
+      },
+      "Conviction": {
+        "league": "LTA N",
+        "tier": "T2"
+      },
+      "Near Airport": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Luminosity Gaming": {
+        "league": "LTA N",
+        "tier": "T2"
+      },
+      "DarkZero Dragonsteel": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "LYON Academy": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Zeu5 Esports": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "GOAL": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Sicar Esports": {
+        "league": "LTA S",
+        "tier": "T2"
+      },
+      "aNc Legends": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Colossal Gaming": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Metin2 Enjoyers": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "AKA HERO": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Münster Esports - Golden Goats": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "A One Man Army Prime": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "Broke": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "A One Man Army Prime Academy": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "htp eSport Akademie Hannover": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Human Apex Predator": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "DOCISK": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Partizan Sangal": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "StormMedia Fajnie Mieć Skład": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Connect Arena Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Footprint Gaming": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Permitta eSports": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "SK Gaming Avarosa": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "KrabbelGruppeAlpha": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Void Requiem": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Black Lion": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "TeamOrangeGaming Academy": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Nice Try": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "CGN Esports": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "LittleSans": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "G2 Hel": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Sportia Khore": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Evil genius": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "HST": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Apex Predator": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Venus Gaming": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "GenZ Gaming": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Mila Gaming": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "HUTECH CHICKEN": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Mental Over Tempo": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Bamboo Juice": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Vortex (Japanese Team)": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Nocturne Gale": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Gaming Barcelona": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "MGN Vikings Academy": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Dragons Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "3BL Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "FN Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "DCT eSports": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Team Blaze 1": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "FUSION (Latin American Team)": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Soul's Heart Esport": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "Golden Lions": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Tigers eSports": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Paputs Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Lechuga Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Contrata Logo Meu Time": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "ZGDX Gaming": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Citadel Gaming": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Cupid Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Dorado Gaming": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Jolly Rogers": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Temper & Friends": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "NGU eSports": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Howl Esports": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Xibalbá Esports": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "The Forbidden Five": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Vancouver Impact": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Caldya Esport": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Alpha7 Esports": {
+        "league": "LTA S",
+        "tier": "T2"
+      },
+      "e-Champ Gaming": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Orzeł Barcząca Esports": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Andromeda Gaming": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Priority": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "BERZLOY": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Barcząca Esports": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Natus Vincere": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Diver (Portuguese Team)": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Team High Ground": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Papo Secos": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Rage Bait e-Sports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Evolve eSports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Otter Side": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "REDPack Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "NextGeneration Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Karam El Sham": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Zer0 Trein0": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Zenshi Gaming": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "7REX": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Cusprills": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Kaeru Gyuangu": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "NEO ZEPHYR": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "LEO Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Bastu Five": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "B2U": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Venomcrest Serpents": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "CNG Royal": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "AaB Esport": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Fortress Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "LEO": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Saving OCE": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Inferno Esports": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "LEGACY5": {
+        "league": "IC",
+        "tier": "MINOR"
+      },
+      "Japan (National Team)": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "ZSM": {
+        "league": "DCup",
+        "tier": "MINOR"
+      },
+      "FRK": {
+        "league": "DCup",
+        "tier": "MINOR"
+      },
+      "Deacoy": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "P11 Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "HMBLE": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Frites Esports Club": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "The Bandits": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "ALMO Players": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "4 Swines & A Bum": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Deer Gaming": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "La BOMBAS": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Arctic Pandas": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "MVK Esports": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Shifters": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "LØS": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "PCIFIC Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "SU Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "G2 NORD": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "Team Phoenix": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Zephyr Esport": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Yumeea": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "S2G Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "French Flair": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Lausanne-Sport Esports": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Vitality Rising Bees": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Gity Meavedronu": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "SPAXFAMILY": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "TLN Pirates": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Galions Sharks": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "ZYB Esport": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Observant Force": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Sentinels": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "Arneb": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Fast8": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Uwinks": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "CAG OSAKA": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "UEC eSports PlusPlus": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "NOVEX": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "New Meta": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Inferno Drive Tokyo": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Rising Gaming": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "L Guide Gaming": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Revolution Victory X": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Epitomy Masters": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "The AstroDucks": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Macko Academy": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "4 Employed e 1 Budino": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Epitomy Crash": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Huskies Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Epitomy Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      }
+    },
+    "rank_caps_by_tier": {
+      "T1": 327.68430784522604,
+      "ERL": 97.74078715034184,
+      "MINOR": 97.74078715034184,
+      "T2": 97.74078715034184
+    }
+  },
+  "calibrator": {
+    "a": 0.42849292914049303,
+    "b": -0.012817325384385124
+  },
+  "meta": {
+    "trained_at": "2026-02-10T00:02:22+00:00",
+    "data_min_date": "2024-01-01",
+    "data_max_date": "2026-02-09",
+    "cutoff_date": "2025-12-26",
+    "n_games_total": 21306,
+    "n_games_train": 20240,
+    "n_games_holdout": 1066,
+    "n_teams": 760,
+    "csv": [
+      "CSV_HISTORICO\\2024_LoL_esports_match_data_from_OraclesElixir.csv",
+      "CSV_HISTORICO\\2025_LoL_esports_match_data_from_OraclesElixir.csv",
+      "CSV_DIARIO\\2026_LoL_esports_match_data_from_OraclesElixir.csv"
+    ],
+    "keep_playoffs": null,
+    "holdout_days": 45,
+    "params": {
+      "k": 24.0,
+      "scale_points": 360.0,
+      "alpha": 80.0,
+      "k_league": 6.0,
+      "k_tier": 3.0
+    },
+    "team_meta": {
+      "LNG Esports": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Rare Atom": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "JD Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Top Esports": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Ninjas in Pyjamas": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Bilibili Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "BoostGate Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Dark Passage": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Auronin": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "NONAMES (Turkish Team)": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Misa Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "FUT Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Easier to Run": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "BAU Esports": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "NASR eSports Turkey": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Beşiktaş Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Karasuno": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Lynch Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Galakticos": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Papara SuperMassive": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Ascendance": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "IMU Beyond": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Team BDS": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "G2 Esports": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Rogue": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "SK Gaming": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Karmine Corp": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Fnatic": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Team Vitality": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "GiantX": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "MAD Lions KOI": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Team Heretics": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "DRX Challengers": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "BNK FEARX Youth": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "ION Global Esports": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "FURY Global": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "Nongshim Esports Academy": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "Gen.G Global Academy": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "Team Bliss": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "Dire Wolves": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "KT Rolster Challengers": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "HANJIN BRION Challengers": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "Ground Zero Gaming": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Kanga Esports": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "Hanwha Life Esports Challengers": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "Dplus Kia Challengers": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "DN SOOPers Challengers": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "T1 Esports Academy": {
+        "league": "LCKC",
+        "tier": "MINOR"
+      },
+      "GRP Esports": {
+        "league": "UL",
+        "tier": "MINOR"
+      },
+      "Forsaken": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "devils.one": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Team ESCA Gaming": {
+        "league": "UL",
+        "tier": "MINOR"
+      },
+      "Orbit Anonymo Esports": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Iron Wolves": {
+        "league": "UL",
+        "tier": "MINOR"
+      },
+      "Zero Tenacity": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Back2TheGame": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Movistar R7": {
+        "league": "LLA",
+        "tier": "MINOR"
+      },
+      "Estral Esports": {
+        "league": "LTA N",
+        "tier": "T2"
+      },
+      "inf": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Isurus": {
+        "league": "LTA S",
+        "tier": "T2"
+      },
+      "DRX": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "Nongshim RedForce": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "Gen.G": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "T1": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "NNO Prime": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "SK Gaming Prime": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "Barça eSports": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Case Esports": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "BK ROG Esports": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Karmine Corp Blue": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Aegis": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Team GO": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Ramboot Club": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Rebels Gaming": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Eintracht Frankfurt": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "Austrian Force willhaben": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "UCAM Esports": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Guasones": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Vitality.Bee": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Team BDS Academy": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Unicorns of Love Sexy Edition": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "Eintracht Spandau": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "Los Heretics": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "GIANTX iTero": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Solary": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Gentle Mates": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "MOUZ NXT": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "E WIE EINFACH E-SPORTS": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "ZETA": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Movistar KOI": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Team du Sud": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "GameWard": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Berlin International Gaming": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "FC Schalke 04 Esports": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "Leviatan": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "Six Karma": {
+        "league": "LLA",
+        "tier": "MINOR"
+      },
+      "HANJIN BRION": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "Dplus Kia": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "KT Rolster": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "BNK FEARX": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "All Knights": {
+        "league": "LLA",
+        "tier": "MINOR"
+      },
+      "Hanwha Life Esports": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "Beyond Gaming": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "CTBC Flying Oyster": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "DN SOOPers": {
+        "league": "LCK",
+        "tier": "T1"
+      },
+      "West Point Esports": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Deep Cross Gaming": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Burning Core Toyama": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "QT DIG∞": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Frank Esports": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "J Team": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Team Secret": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "MGN Vikings Esports": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Fukuoka SoftBank HAWKS gaming": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "DetonatioN FocusMe": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "PSG Talon": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "HELL PIGS": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "MGN Blue Esports": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Rainbow Warriors": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "AXIZ CREST": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "V3 Esports": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "LOUD": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "KaBuM! Esports": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "Vivo Keyd Stars": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "Los Grandes": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Fluxo": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "FURIA": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "Liberty": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "INTZ": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "Team Liquid": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "100 Thieves": {
+        "league": "LTA N",
+        "tier": "T2"
+      },
+      "RED Canids": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "paiN Gaming": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "Cloud9": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "NRG": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "FlyQuest": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "Shopify Rebellion": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "Dignitas": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "Immortals": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "Disguised": {
+        "league": "LTA N",
+        "tier": "T2"
+      },
+      "FlyQuest NZXT": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Team Liquid Challengers": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Wildcard Gaming": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Team Flash": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "CERBERUS Esports": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Team Whales": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "GAM Esports": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Cincinnati Fear": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Mirage Alliance": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Area of Effect Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Maryville University": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "MAMMOTH": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "Royal Never Give Up": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "EDward Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Oh My God": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Team WE": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Antic Esports": {
+        "league": "LCO",
+        "tier": "MINOR"
+      },
+      "Anyone's Legend": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "FunPlus Phoenix": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "GLORE": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Team UNiTY": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "BRUTE": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Europe Saviors Club": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Team Mythic": {
+        "league": "GLL",
+        "tier": "MINOR"
+      },
+      "Team Refuse": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Dynamo Eclot": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Entropiq": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Once Upon A Team": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "Team 7AM": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "OGC Sigma Esports": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "eSuba": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Team Phantasma": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Zerolag Esports": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "A One Man Army": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "ZennIT": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "Gamespace Mediterranean College Esports": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Wild Panthers Esports": {
+        "league": "GLL",
+        "tier": "MINOR"
+      },
+      "SNOOZE Esports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Myth Esports": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "WLGaming Esports": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Anorthosis Famagusta Esports": {
+        "league": "GLL",
+        "tier": "MINOR"
+      },
+      "Dynasty": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "mCon esports": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "LGD Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Ultra Prime": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Invictus Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "NORD Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Nativz": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Lionscreed": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "DMG Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Venomcrest Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Lundqvist Lightside": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Verdant": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Ruddy Corporation": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Weibo Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "ThunderTalk Gaming": {
+        "league": "LPL",
+        "tier": "T1"
+      },
+      "Macko Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "aNc Outplayed": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "DSYRE": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "EKO Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "BWE Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Keypulse Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "ENEMI3S": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Atleta Esport": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Odivelas Sports Club": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Hurricane of Feathers": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "DREN Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Axolotl": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "EGN Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "SAW": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "White Dragons": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "GTZ Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Oh My God Academy": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Bilibili Gaming Junior": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Ji Jie Hao (集结号)": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "Anyone's Legend.Young": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "EDG Youth Team": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Rare Atom Period": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "FunPlus Phoenix Blaze": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "ThunderTalk Gaming Young": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Ultra Prime Academy": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "Top Esports Challenger": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Joy Dream": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "Team WE Academy": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "LGD Gaming Young Team": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "LNG Academy": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Weibo Gaming Youth Team": {
+        "league": "Asia Master",
+        "tier": "MINOR"
+      },
+      "Royal Club": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "Supernova": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "LiT Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Lupus Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Ankora Gaming": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Partizan Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Diamant Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "SPIKE Syndicate": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Crvena zvezda Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Invictus Gaming Young": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "MAX": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "MiaoJing (妙竞)": {
+        "league": "LDL",
+        "tier": "MINOR"
+      },
+      "Cyber Wolves": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "BeFive": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "One Way Esports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Liberty Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "FURIA Youth": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "paiN Gaming Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "Los Grandes Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "KaBuM! Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "RED Academy": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Flamengo Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "LOUD Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "Fluxo Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "INTZ Academy": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "XV eSports": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Vivo Keyd Stars Academy": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Geekay Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "One More Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "RA'AD": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Anubis Gaming": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Fox Gaming": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "GnG Amazigh": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Twisted Minds": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Nigma Galaxy": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "KRC Genk Esports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Team Legion": {
+        "league": "GLL",
+        "tier": "MINOR"
+      },
+      "FLY5": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "Maverix": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Team Meliora": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "H3ARTS": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "EXILE esports": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Inside Games": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Esport STUBA": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Delta Syndicate": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "AXIZ CREST Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "CTBC Flying Oyster Academy": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "West Point Esports Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "PSG Talon Academy": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Impunity": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "Hungkuang Falcon (弘光獵鷹)": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Deep Cross Gaming Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "V3 Esports Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "TNU Eagle (東南飛鷹)": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "Frank Esports Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "Sengoku Gaming Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "DetonatioN FocusMe Academy": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Esprit Shōnen": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Lille Esport": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Project Conquerors": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Ici Japon Corp. Esport": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "IziDream": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "Klanik Esport": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "Joblife": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Akroma": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "MHSC Esport": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "Zerance": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "Dream Makers": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Veni Vidi Vici": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Guinea Pink": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Universae Instituto FP": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Kawaii Kiwis": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "UCAM Esports Academy": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Erfolg Esports": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "UnlockTan'i": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Chienhsin Bear (健行熊)": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "PÊEK Gaming": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Tomorrow Esports": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Pirates IDV": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Osaka": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "DSC3V": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Fuego": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Waia Snikt": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Janus Panter": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "WAP Esports": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Eclipse Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Meta Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Undead Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Blue Otter": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Winthrop University": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "PRIMATE": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Furious Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Malvinas Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Spectacled Bears": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "CCG Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "University of Mississippi": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "International Esports Industry Center": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "Bees Hum": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "Flamengo MDL": {
+        "league": "LTA S",
+        "tier": "T2"
+      },
+      "CORE 128": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Team GMask": {
+        "league": "CT",
+        "tier": "MINOR"
+      },
+      "Tan'i eSports": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "BGA eQuizers": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Laffson's gang": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "Zennox Gaming": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "Repre Gold": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "PaiN Gaming Ignis": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "IME Wolves": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Laranja Mecânica Ignis": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Coven": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Rise Gaming Ignis": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Izanagi Ignis": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Vivo Keyd Stars Ignis": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Geração Estrutura": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "BNK FEARX Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "DRX Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "Dplus Kia Youth": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "HANJIN BRION Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "Nongshim RedForce Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "KT Rolster Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "DN SOOPers Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "Gen.G Scholars": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "Hanwha Life Esports Academy": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "T1 Esports Academy Rookies": {
+        "league": "LAS",
+        "tier": "MINOR"
+      },
+      "Team Paradox": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "LUA Gaming": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "SAMCLAN Esports Club": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Burning Core Toyama Academy": {
+        "league": "PCL",
+        "tier": "MINOR"
+      },
+      "Diversion Gaming": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Parakeet Gaming": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "OGC Esports": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Ilha das Lendas": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "Rise Gaming": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Tropa Raizen": {
+        "league": "CBLOLA",
+        "tier": "T2"
+      },
+      "BlueWhites": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "LODIS": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Team Anomaly Breaker": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Seven Dark": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Dragonsteel": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Fear x Starforge": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "PepePo": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Dragoon's Goons": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Nightblood Gaming": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Gentle Hearts Gaming": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Gravity": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Black Rock Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Pulse Star": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Next Level Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Contingent Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Apex Mission Impossible": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Castle Berry": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "DUCKIE GETTERS": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Lotus": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "grompcord": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "WANG TOWN": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Nigel's Last Tiles": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Lotus Knights": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Team Insidious": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "SINS Esports": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Actions Per Minute": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "DELTALAND": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "The Gulls Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "GMBLERS Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "PepeTinkyWinky": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "L’art de la Guerre": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Pee N W's": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Komodo": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Maelstrom Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "ReluminateGG": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Guangdong Flying Tigers": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "MIBR": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "eWolves Ignis": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Comanchero Gaming": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "NONAME": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Spinebusters E-Sport": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "Jörmungang": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "Pertinax Esports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Stormbringers": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Kaufland Hangry Knights": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "Dutch Community Team": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Aurora": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "Leões Porto Salvo Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "ZeroZone Gaming": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Rich Gang": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Twareg Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Juicy Ballers": {
+        "league": "UL",
+        "tier": "MINOR"
+      },
+      "BAAM Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Fog Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Ukrainian Glory Team": {
+        "league": "UL",
+        "tier": "MINOR"
+      },
+      "Packmiko E-Sports": {
+        "league": "UL",
+        "tier": "MINOR"
+      },
+      "42 Gaming": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Fourth Wall": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Nameless (French Team)": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "HUGE Esport": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "FlameHard": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Kafard Academie": {
+        "league": "CDF",
+        "tier": "MINOR"
+      },
+      "Le Pouvoir de l'Amitié": {
+        "league": "CDF",
+        "tier": "MINOR"
+      },
+      "AIX eSports": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Andromeda Nebula": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "All for One Gaming": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "DKB XPERION NXT": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "RNL ROAR": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "ROSSMANN Centaurs": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "TeamOrangeGaming": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "Team Mentality": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Foxnyr Esports": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Wstyd Easta": {
+        "league": "USP",
+        "tier": "MINOR"
+      },
+      "EXILE esports Academy": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Diversion Academy": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "VININE": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Entropy x Teufel": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "KIA.eSuba Academy": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Esport STUBA Academy": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Kiedyś Miałem Fun": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Ethereal Enigmas": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "EPIC-DUDES": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "DKB XPERION NXT RAW": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "AceGaming Spades": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "regnum4games": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "VfB eSports": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Frontier x Veni": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "eSports Cologne e.V.": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Brod and Friends": {
+        "league": "NLC Aurora Open",
+        "tier": "MINOR"
+      },
+      "Regem": {
+        "league": "NLC Aurora Open",
+        "tier": "MINOR"
+      },
+      "AGALAR": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Bootz Gaming": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Direct Rising eSports": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "WeSports": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "AvaTrade PixelPenny": {
+        "league": "USP",
+        "tier": "MINOR"
+      },
+      "INT Esports": {
+        "league": "NLC Aurora Open",
+        "tier": "MINOR"
+      },
+      "PARAGON (British Team)": {
+        "league": "NLC Aurora Open",
+        "tier": "MINOR"
+      },
+      "Joker Strike": {
+        "league": "USP",
+        "tier": "MINOR"
+      },
+      "Epic Avalanche": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "6AM": {
+        "league": "NLC Aurora Open",
+        "tier": "MINOR"
+      },
+      "Only Heroes Academia": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Dusty": {
+        "league": "NLC Aurora Open",
+        "tier": "MINOR"
+      },
+      "Bitfix Gaming": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Brod n Friends": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Team Axelent69": {
+        "league": "EBLPA",
+        "tier": "MINOR"
+      },
+      "Phoenix Esports": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Hazing Chase": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Athen Warrior": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Ahriro": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "FoxFire": {
+        "league": "TSC",
+        "tier": "MINOR"
+      },
+      "Spartans EU": {
+        "league": "GLLPA",
+        "tier": "MINOR"
+      },
+      "Paranormal Invaders": {
+        "league": "GLLPA",
+        "tier": "MINOR"
+      },
+      "Ionikos Nikaias Esports": {
+        "league": "GLLPA",
+        "tier": "MINOR"
+      },
+      "24/7 Tower Dive": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Infernal Wolves": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Mind Blue Futures": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "StriX (Belgian Team)": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Top 1 Benelux": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "RQS Esports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "ATK Esports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "ESEV Zephyr Ares": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "RED OUAT": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Coinflip to Victory": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Team Shrimp": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Fight For Ever": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Emrys Esports White": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Jörmungang Academy": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "Gamers404": {
+        "league": "GLLPA",
+        "tier": "MINOR"
+      },
+      "Mind Blue eSports": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "CIS Falling Stars": {
+        "league": "ESLOL",
+        "tier": "MINOR"
+      },
+      "eQuizers": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Team DX": {
+        "league": "GLLPA",
+        "tier": "MINOR"
+      },
+      "R5 Esports": {
+        "league": "GLLPA",
+        "tier": "MINOR"
+      },
+      "UCAM University Esports": {
+        "league": "IC",
+        "tier": "MINOR"
+      },
+      "Oxygen Gaming": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Ceuta Guardians": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Melilla Titans": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Green Dolphin Gaming": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Malvinas Gaming EU": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "PRINCIPALITY": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "La Alta Parroquia": {
+        "league": "IC",
+        "tier": "MINOR"
+      },
+      "Heracles Gaming": {
+        "league": "IC",
+        "tier": "MINOR"
+      },
+      "Fortune Makers": {
+        "league": "IC",
+        "tier": "MINOR"
+      },
+      "KAOS e-sport": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Lazy In Life": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "UniQ Esports Club": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Garden Gaming": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "RIP MAMBERROI": {
+        "league": "IC",
+        "tier": "MINOR"
+      },
+      "Falke Esports": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Ruzeh Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Senshi eSports": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "Bad Day": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Banshee": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Winter (Brazilian Team)": {
+        "league": "IGNIS",
+        "tier": "MINOR"
+      },
+      "Chinese Taipei (National Team)": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "Vietnam (National Team)": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "Team Valiant": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "Skillcamp": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "Karmine Corp Blue Stars": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Movistar KOI Fénix": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Los Ratones": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Bulldog Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Team Secret Whales": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Chiefs Esports Club": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Dung Dynasty": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "Zena Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Underworld Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Galions": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "BBL Dark Passage": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "ULF Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Mighty Eagles": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Bushido Wildcats": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Eternal Fire": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Meavedron": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Divernex": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "CITA Kaizen": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "REJECT": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "We Can Win": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Black Dog": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "VelbeliKaizokudan": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Spirit Quartz Gaming": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Night Cap": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Kareha Children": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Hands": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Yang Yang Gaming": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "VARREL YOUTH": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Clocks": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "BraVeLY": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "VeLocitY (Japanese Team)": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "LYON": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "Isurus Estral": {
+        "league": "LTA S",
+        "tier": "T2"
+      },
+      "Fluxo W7M": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "MY STAR": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Monta Club": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Fractious eSports": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Dark Roses": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Gwenchana": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "RATZ": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Dopamina E-Sport": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Corinthians Esports": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Ligre Gaming": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Dynamo Eclot Talents": {
+        "league": "HC",
+        "tier": "MINOR"
+      },
+      "Nightbirds": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Tan'i eSports CZ": {
+        "league": "HM",
+        "tier": "ERL"
+      },
+      "Str1ve eSports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "NORTHS FURY": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Crusaders": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "5M Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "For The Win Esports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Grow uP eSports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Berimbados": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Lenovo Legion Honvéd": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "The Secret Club": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Fantastic Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Magaza Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "ΣΤΕΝΑΧΩΡΕΜΕΝΟΙ": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Saigon Dino": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "SN CyberCore Esports": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Hyper Vortex Esports": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Silent Storm Esports": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Saigon Secret": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Hanoi Rookies Esports": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Never Give Up": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "PaiDA Miwan Bao": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Sponge Gaming": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "wangting": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "JY Gaming": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "No Barry Berry": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Kyo eSports": {
+        "league": "PCS",
+        "tier": "T2"
+      },
+      "Team Tockers": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Team Revolta": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Stellae Gaming": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "KaBuM! Ilha das Lendas": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Dream in 24": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Radical Pop Gaming": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "BloomStorm": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Deltan Gaming": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Farenvehn": {
+        "league": "LTA S",
+        "tier": "T2"
+      },
+      "Maze Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Team Evermeet": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Icon Esports": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "ODD Esports": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "SDM Tigres": {
+        "league": "LTA N",
+        "tier": "T2"
+      },
+      "Conviction": {
+        "league": "LTA N",
+        "tier": "T2"
+      },
+      "Near Airport": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Luminosity Gaming": {
+        "league": "LTA N",
+        "tier": "T2"
+      },
+      "DarkZero Dragonsteel": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "LYON Academy": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Zeu5 Esports": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "GOAL": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Sicar Esports": {
+        "league": "LTA S",
+        "tier": "T2"
+      },
+      "aNc Legends": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Colossal Gaming": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Metin2 Enjoyers": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "AKA HERO": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Münster Esports - Golden Goats": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "A One Man Army Prime": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "Broke": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "A One Man Army Prime Academy": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "htp eSport Akademie Hannover": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Human Apex Predator": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "DOCISK": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Partizan Sangal": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "StormMedia Fajnie Mieć Skład": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Connect Arena Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Footprint Gaming": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Permitta eSports": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "SK Gaming Avarosa": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "KrabbelGruppeAlpha": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Void Requiem": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Black Lion": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "TeamOrangeGaming Academy": {
+        "league": "PRMP",
+        "tier": "ERL"
+      },
+      "Nice Try": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "CGN Esports": {
+        "league": "PRM",
+        "tier": "ERL"
+      },
+      "LittleSans": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "G2 Hel": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Sportia Khore": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Evil genius": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "HST": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Apex Predator": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Venus Gaming": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "GenZ Gaming": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Mila Gaming": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "HUTECH CHICKEN": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Mental Over Tempo": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "Bamboo Juice": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Vortex (Japanese Team)": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Nocturne Gale": {
+        "league": "LVP SL",
+        "tier": "ERL"
+      },
+      "Gaming Barcelona": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "MGN Vikings Academy": {
+        "league": "VCS",
+        "tier": "T2"
+      },
+      "Dragons Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "3BL Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "FN Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "DCT eSports": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Team Blaze 1": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "FUSION (Latin American Team)": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "Soul's Heart Esport": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "Golden Lions": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Tigers eSports": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Paputs Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Lechuga Gaming": {
+        "league": "LRS",
+        "tier": "MINOR"
+      },
+      "Contrata Logo Meu Time": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "ZGDX Gaming": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Citadel Gaming": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Cupid Esports": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Dorado Gaming": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Jolly Rogers": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Temper & Friends": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "NGU eSports": {
+        "league": "NEXO",
+        "tier": "MINOR"
+      },
+      "Howl Esports": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Xibalbá Esports": {
+        "league": "LRN",
+        "tier": "MINOR"
+      },
+      "The Forbidden Five": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Vancouver Impact": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "Caldya Esport": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Alpha7 Esports": {
+        "league": "LTA S",
+        "tier": "T2"
+      },
+      "e-Champ Gaming": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Orzeł Barcząca Esports": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Andromeda Gaming": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Priority": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "BERZLOY": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "Barcząca Esports": {
+        "league": "RL",
+        "tier": "MINOR"
+      },
+      "Natus Vincere": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "Diver (Portuguese Team)": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Team High Ground": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Papo Secos": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Rage Bait e-Sports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Evolve eSports": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "Otter Side": {
+        "league": "LPLOL",
+        "tier": "ERL"
+      },
+      "REDPack Esports": {
+        "league": "EBL",
+        "tier": "ERL"
+      },
+      "NextGeneration Esports": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Karam El Sham": {
+        "league": "AL",
+        "tier": "MINOR"
+      },
+      "Zer0 Trein0": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Zenshi Gaming": {
+        "league": "NACL",
+        "tier": "MINOR"
+      },
+      "7REX": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Cusprills": {
+        "league": "CD",
+        "tier": "MINOR"
+      },
+      "Kaeru Gyuangu": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "NEO ZEPHYR": {
+        "league": "LFL2",
+        "tier": "ERL"
+      },
+      "LEO Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Bastu Five": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "B2U": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Venomcrest Serpents": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "CNG Royal": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "AaB Esport": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Fortress Esports": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "LEO": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Saving OCE": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Inferno Esports": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "LEGACY5": {
+        "league": "IC",
+        "tier": "MINOR"
+      },
+      "Japan (National Team)": {
+        "league": "KeSPA",
+        "tier": "MINOR"
+      },
+      "ZSM": {
+        "league": "DCup",
+        "tier": "MINOR"
+      },
+      "FRK": {
+        "league": "DCup",
+        "tier": "MINOR"
+      },
+      "Deacoy": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "P11 Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "HMBLE": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Frites Esports Club": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "The Bandits": {
+        "league": "ROL",
+        "tier": "MINOR"
+      },
+      "ALMO Players": {
+        "league": "HLL",
+        "tier": "MINOR"
+      },
+      "4 Swines & A Bum": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Deer Gaming": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "La BOMBAS": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "Arctic Pandas": {
+        "league": "NLC",
+        "tier": "ERL"
+      },
+      "MVK Esports": {
+        "league": "LCP",
+        "tier": "MINOR"
+      },
+      "Shifters": {
+        "league": "LEC",
+        "tier": "T1"
+      },
+      "LØS": {
+        "league": "CBLOL",
+        "tier": "T2"
+      },
+      "PCIFIC Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "SU Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "G2 NORD": {
+        "league": "CCWS",
+        "tier": "MINOR"
+      },
+      "Team Phoenix": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "Zephyr Esport": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Yumeea": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "S2G Esports": {
+        "league": "TCL",
+        "tier": "ERL"
+      },
+      "French Flair": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Lausanne-Sport Esports": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Vitality Rising Bees": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Gity Meavedronu": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "SPAXFAMILY": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "TLN Pirates": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Galions Sharks": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "ZYB Esport": {
+        "league": "LFL",
+        "tier": "ERL"
+      },
+      "Observant Force": {
+        "league": "HW",
+        "tier": "MINOR"
+      },
+      "Sentinels": {
+        "league": "LCS",
+        "tier": "T2"
+      },
+      "Arneb": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Fast8": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Uwinks": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "CAG OSAKA": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "UEC eSports PlusPlus": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "NOVEX": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "New Meta": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Inferno Drive Tokyo": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Rising Gaming": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "L Guide Gaming": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Revolution Victory X": {
+        "league": "LJL",
+        "tier": "T2"
+      },
+      "Epitomy Masters": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "The AstroDucks": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Macko Academy": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "4 Employed e 1 Budino": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Epitomy Crash": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Huskies Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      },
+      "Epitomy Esports": {
+        "league": "LIT",
+        "tier": "MINOR"
+      }
+    },
+    "metrics": {
+      "holdout_n": 1066,
+      "logloss_raw": 0.6977774292673347,
+      "logloss_cal": 0.6857742447056978,
+      "brier_raw": 0.25089394596968234,
+      "brier_cal": 0.24630771629217696,
+      "calibrated": true,
+      "calibration_reason": "accepted_gain=0.012003",
+      "min_cal_gain": 0.0,
+      "cal_a": 0.42849292914049303,
+      "cal_b": -0.012817325384385124,
+      "ece_raw": 0.04413959779382423,
+      "ece_cal": 0.028862699437106457,
+      "reliability_bins_raw": [
+        {
+          "lo": 0.0,
+          "hi": 0.1,
+          "n": 1,
+          "p_mean": 0.0904642276461947,
+          "y_mean": 0.0,
+          "gap": 0.0904642276461947
+        },
+        {
+          "lo": 0.1,
+          "hi": 0.2,
+          "n": 12,
+          "p_mean": 0.17112562549002008,
+          "y_mean": 0.5,
+          "gap": 0.3288743745099799
+        },
+        {
+          "lo": 0.2,
+          "hi": 0.3,
+          "n": 56,
+          "p_mean": 0.24460223164646053,
+          "y_mean": 0.32142857142857145,
+          "gap": 0.07682633978211093
+        },
+        {
+          "lo": 0.3,
+          "hi": 0.4,
+          "n": 145,
+          "p_mean": 0.3597030008867386,
+          "y_mean": 0.43448275862068964,
+          "gap": 0.07477975773395101
+        },
+        {
+          "lo": 0.4,
+          "hi": 0.5,
+          "n": 269,
+          "p_mean": 0.4564356216163691,
+          "y_mean": 0.44981412639405205,
+          "gap": 0.006621495222317031
+        },
+        {
+          "lo": 0.5,
+          "hi": 0.6,
+          "n": 343,
+          "p_mean": 0.5312174141283829,
+          "y_mean": 0.5364431486880467,
+          "gap": 0.005225734559663797
+        },
+        {
+          "lo": 0.6,
+          "hi": 0.7,
+          "n": 170,
+          "p_mean": 0.6439693395732067,
+          "y_mean": 0.5882352941176471,
+          "gap": 0.0557340454555596
+        },
+        {
+          "lo": 0.7,
+          "hi": 0.8,
+          "n": 52,
+          "p_mean": 0.7461054373166115,
+          "y_mean": 0.5576923076923077,
+          "gap": 0.1884131296243038
+        },
+        {
+          "lo": 0.8,
+          "hi": 0.9,
+          "n": 17,
+          "p_mean": 0.8196571037003811,
+          "y_mean": 0.5294117647058824,
+          "gap": 0.2902453389944988
+        },
+        {
+          "lo": 0.9,
+          "hi": 1.0,
+          "n": 1,
+          "p_mean": 0.9095357723538053,
+          "y_mean": 1.0,
+          "gap": 0.09046422764619466
+        }
+      ],
+      "reliability_bins_cal": [
+        {
+          "lo": 0.2,
+          "hi": 0.3,
+          "n": 1,
+          "p_mean": 0.26859348917019393,
+          "y_mean": 0.0,
+          "gap": 0.26859348917019393
+        },
+        {
+          "lo": 0.3,
+          "hi": 0.4,
+          "n": 61,
+          "p_mean": 0.3662838816316096,
+          "y_mean": 0.39344262295081966,
+          "gap": 0.02715874131921009
+        },
+        {
+          "lo": 0.4,
+          "hi": 0.5,
+          "n": 542,
+          "p_mean": 0.46988667867040623,
+          "y_mean": 0.45202952029520294,
+          "gap": 0.017857158375203297
+        },
+        {
+          "lo": 0.5,
+          "hi": 0.6,
+          "n": 413,
+          "p_mean": 0.5388535681252776,
+          "y_mean": 0.5714285714285714,
+          "gap": 0.03257500330329377
+        },
+        {
+          "lo": 0.6,
+          "hi": 0.7,
+          "n": 48,
+          "p_mean": 0.6340967806551538,
+          "y_mean": 0.5208333333333334,
+          "gap": 0.11326344732182048
+        },
+        {
+          "lo": 0.7,
+          "hi": 0.8,
+          "n": 1,
+          "p_mean": 0.726340784754424,
+          "y_mean": 1.0,
+          "gap": 0.273659215245576
+        }
+      ]
+    },
+    "tiers_note": "v0.4+: base_strength = residual_eff + league_strength(league) + tier_strength(tier); residual_eff uses shrink n/(n+alpha).",
+    "model_warnings": [],
+    "achievements": {
+      "path": "achievements.json",
+      "weights_points": {},
+      "learn_report": {
+        "enabled": false
+      },
+      "note": "achievements.json is external; weights are learned + stored in artifact meta"
+    },
+    "note": "v0.4.0: Elo residuals + learned league/tier offsets (no fixed baselines) + shrink(alpha) + optional achievements + optional Platt calibration + optional players layer.",
+    "walkforward_report": {
+      "path": "walkforward_tuned_auto.json",
+      "overall": {
+        "folds": 25,
+        "n_total": 20622,
+        "logloss_mean": 0.6726094249653539,
+        "brier_mean": 0.2398845855993427,
+        "roi_proxy_mean": 0.06201537352274069
+      },
+      "generated_at": "2026-02-10T00:02:55Z"
+    },
+    "players_layer": {
+      "enabled": true,
+      "players_artifact": "players_artifact_tuned_auto.json",
+      "w_lineup": 0.5026392762886086,
+      "w_lineup_raw": 0.5026392762886086,
+      "w_lineup_clipped": false,
+      "wlineup_max_abs": 3.0,
+      "l2": 0.0,
+      "avg_coverage": 1.0,
+      "cal_after_lineup": {
+        "a": 0.5334049651434372,
+        "b": -0.026605825448427215
+      },
+      "holdout_n_used": 1066,
+      "n_train_games": 20240,
+      "n_holdout_games": 1066,
+      "prior": {}
+    }
+  }
+}

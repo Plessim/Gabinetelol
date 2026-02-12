@@ -1,0 +1,287 @@
+{
+  "generated_at": "2026-02-12T13:22:54",
+  "matchup": {
+    "season": "S16",
+    "teamA": "DRX",
+    "teamB": "Dplus Kia",
+    "bo": 5
+  },
+  "filters": {
+    "year": "2026",
+    "split": "All",
+    "playoffs": "all",
+    "league_mode": "auto",
+    "fixed_league": "All"
+  },
+  "engine": "mlcore_v2",
+  "ml_trace": {
+    "generated_at": "2026-02-12T13:22:53",
+    "matchup": {
+      "season": "S16",
+      "teamA": "DRX",
+      "teamB": "Dplus Kia",
+      "bo": 5
+    },
+    "filters": {
+      "year": "2026",
+      "split": "All",
+      "playoffs": "all",
+      "league_mode": "auto",
+      "fixed_league": "All"
+    },
+    "engine": "mlcore_v2",
+    "model_mode": "PadrÃ£o",
+    "probabilities": {
+      "p_raw": 0.44143128023611544,
+      "p_cal": 0.43927670966624405,
+      "p_team": 0.43927670966624405,
+      "p_players": 0.5759214658921209,
+      "p_fused": 0.47338509387168937,
+      "p_map_used": 0.4601656344698498,
+      "p_series_used": 0.44774060499464124
+    },
+    "players_adjustment": {
+      "enabled": true,
+      "mode": "ML players layer",
+      "delta_raw": 0.20213708093606114,
+      "delta_effect": 0.47078951699111643,
+      "delta_mode": "saturado",
+      "delta_cap": 1.6,
+      "delta_slope": 2.4,
+      "n_team_eff": 12.0,
+      "n_players_eff": 94.61645309818837,
+      "team_scale_used": 3.0,
+      "players_scale_used": 0.25,
+      "scale_league_used": "LCK"
+    },
+    "fusion": {
+      "season_phase": "mid",
+      "coverage_eff": 1.0,
+      "w_team": 0.75,
+      "w_players": 0.25,
+      "reason": "ok",
+      "coherence_guard": {
+        "applied": false,
+        "dpp": 13.664475622587686,
+        "cap_pp": 22.0,
+        "coverage": 1.0,
+        "pull": 0.0
+      }
+    },
+    "season_form_blend": {
+      "applied": true,
+      "source": "fitted:LCK",
+      "p_model": 0.47338509387168937,
+      "p_form": 0.39473684210526316,
+      "p_blended": 0.4554165675848714,
+      "w_form": 0.22846695105419254,
+      "n_a": 24,
+      "n_b": 12,
+      "wins_a": 12,
+      "wins_b": 8,
+      "reason": "ok"
+    },
+    "hybrid_blend": {
+      "applied": true,
+      "enabled": true,
+      "p_model": 0.4554165675848714,
+      "p_hybrid": 0.469936713776052,
+      "p_blended": 0.4601656344698498,
+      "w_hybrid": 0.3270674291050154,
+      "n_eff": 11.5,
+      "agree_to_model": 0.9304509477243882,
+      "reason": "ok"
+    },
+    "confidence_guard": {
+      "enabled": true,
+      "applied": false,
+      "n_ref": 12.0,
+      "min_games": 12.0,
+      "coverage": 1.0,
+      "shrink": 0.0,
+      "p_in": 0.4601656344698498,
+      "p_out": 0.4601656344698498
+    },
+    "series_gamma": {
+      "enabled": true,
+      "applied": true,
+      "gamma": 0.7,
+      "source": "global",
+      "bo": 5,
+      "p_base": 0.42562600405765083,
+      "p_out": 0.44774060499464124,
+      "league_hint": "LCK"
+    },
+    "pipeline": {
+      "version": "v1",
+      "order": [
+        "engine_lineup",
+        "season_form_blend",
+        "hybrid_blend",
+        "confidence_guard",
+        "consistency_guard",
+        "series_gamma"
+      ],
+      "steps": [
+        {
+          "stage": "engine_lineup",
+          "before": 0.43927670966624405,
+          "after": 0.47338509387168937,
+          "applied": true,
+          "engine": "mlcore_v2",
+          "lineup_mode": "ML players layer"
+        },
+        {
+          "stage": "season_form_blend",
+          "before": 0.47338509387168937,
+          "after": 0.4554165675848714,
+          "applied": true,
+          "source": "fitted:LCK"
+        },
+        {
+          "stage": "hybrid_blend",
+          "before": 0.4554165675848714,
+          "after": 0.4601656344698498,
+          "applied": true,
+          "enabled": true
+        },
+        {
+          "stage": "confidence_guard",
+          "before": 0.4601656344698498,
+          "after": 0.4601656344698498,
+          "applied": false,
+          "enabled": true
+        },
+        {
+          "stage": "consistency_guard",
+          "before": 0.4601656344698498,
+          "after": 0.4601656344698498,
+          "applied": false,
+          "enabled": true,
+          "triggered": false,
+          "drift_pp": 0.0
+        },
+        {
+          "stage": "series_gamma",
+          "before": 0.42562600405765083,
+          "after": 0.44774060499464124,
+          "applied": true,
+          "enabled": true,
+          "source": "global",
+          "gamma": 0.7
+        }
+      ],
+      "final_p_map": 0.4601656344698498,
+      "final_p_series": 0.44774060499464124
+    },
+    "guards": {
+      "consistency_guard_on": true,
+      "consistency_guard_triggered": false,
+      "consistency_guard_drift_pp": 0.0,
+      "wf_correction_applied": false,
+      "wf_shrink": null,
+      "wf_league": ""
+    },
+    "odds": {
+      "teamA_map": 2.1731305536365957,
+      "teamB_map": 1.8524200455781268
+    }
+  },
+  "resumo_markets_trace": [
+    {
+      "mercado": "ML (Mapa)",
+      "lado": "Dplus Kia",
+      "linha": "-",
+      "odd_model": 1.8524200455781268,
+      "odd_hist": 3.0,
+      "odd_mix": 1.8524200455781268,
+      "calib_reason": "fallback_model",
+      "calib_source": "model"
+    },
+    {
+      "mercado": "Kills (32.5)",
+      "lado": "Acima",
+      "linha": "32.5",
+      "odd_model": 1.9840413494936242,
+      "odd_hist": 2.7,
+      "odd_mix": 1.9840413494936242,
+      "calib_reason": "fallback_model",
+      "calib_source": "model"
+    },
+    {
+      "mercado": "Torres (11.5)",
+      "lado": "Abaixo",
+      "linha": "11.5",
+      "odd_model": 1.791631975309435,
+      "odd_hist": 1.4210526315789473,
+      "odd_mix": 1.5481839216887814,
+      "calib_reason": "mix",
+      "calib_source": "mix"
+    },
+    {
+      "mercado": "DragÃµes (4.5)",
+      "lado": "Abaixo",
+      "linha": "4.5",
+      "odd_model": 1.5499980987125936,
+      "odd_hist": 1.8,
+      "odd_mix": 1.6724250666472789,
+      "calib_reason": "mix",
+      "calib_source": "mix"
+    },
+    {
+      "mercado": "BarÃµes (1.5)",
+      "lado": "Abaixo",
+      "linha": "1.5",
+      "odd_model": 1.4968122450788393,
+      "odd_hist": 1.35,
+      "odd_mix": 1.430973420651196,
+      "calib_reason": "mix",
+      "calib_source": "mix"
+    },
+    {
+      "mercado": "Inibidores (1.5)",
+      "lado": "Abaixo",
+      "linha": "1.5",
+      "odd_model": 1.7249869666739421,
+      "odd_hist": 1.588235294117647,
+      "odd_mix": 1.6154259492391192,
+      "calib_reason": "mix",
+      "calib_source": "mix"
+    },
+    {
+      "mercado": "Tempo (31:30)",
+      "lado": "Abaixo",
+      "linha": "31:30",
+      "odd_model": 1.4964394061308364,
+      "odd_hist": 2.076923076923077,
+      "odd_mix": 1.7674835988627349,
+      "calib_reason": "mix",
+      "calib_source": "mix"
+    }
+  ],
+  "players_trace": [],
+  "meta": {
+    "app_version": "gabinete-2026.02.12",
+    "generated_at": "2026-02-12T13:22:54",
+    "season": "S16",
+    "teams": {
+      "teamA": "DRX",
+      "teamB": "Dplus Kia",
+      "bo": 5
+    },
+    "filters": {
+      "year": "2026",
+      "split": "All",
+      "playoffs": "all",
+      "map_mode": "",
+      "league_mode": "auto"
+    },
+    "calibration": {
+      "ml_engine": "mlcore_v2",
+      "microseg_enabled": true,
+      "microseg_strength": 0.6,
+      "wf_half_life_days": 180.0,
+      "series_gamma_on": true
+    }
+  }
+}

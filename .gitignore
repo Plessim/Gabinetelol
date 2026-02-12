@@ -1,0 +1,26 @@
+# Virtual env / cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets (do not commit)
+.streamlit/secrets.toml
+
+# Local logs / temp
+*.log
+*.tmp
+
+# Large data (keep repo light)
+CSV_HISTORICO/
+backups/
+lixeira/
+evidence/
+stabilization_snapshots/

@@ -1,0 +1,9 @@
+exceptions=0
+md_count=2
+has_Mapa:=False
+has_MD3:=False
+has_MD5:=False
+has_Lineup (Players)=False
+has_Detalhar c?lculo (ML core v2)=False
+has_Games usados nas stats=False
+expanders=['Configurações (raramente muda)', 'Jogos (agenda) — colar / adicionar', 'Adicionar 1 jogo manual', 'Time não aparece na lista? Mapear apelido', 'Ajustes de cálculo (gerencie na aba Parâmetros)', 'Salvar/Carregar (automático)']

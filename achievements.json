@@ -1,0 +1,680 @@
+{
+  "config": {
+    "half_life_days": {
+      "worlds": 365,
+      "msi": 240,
+      "regional": 180,
+      "other": 120
+    },
+    "fixed_weights_points": {
+      "msi:top16": 6.0,
+      "msi:top8": 12.0,
+      "msi:top4": 20.0,
+      "msi:runner_up": 32.0,
+      "msi:champion": 45.0,
+      "worlds:top16": 8.0,
+      "worlds:top8": 16.0,
+      "worlds:top4": 26.0,
+      "worlds:runner_up": 42.0,
+      "worlds:champion": 60.0,
+      "regional:playoffs": 6.0,
+      "regional:top8": 8.0,
+      "regional:top4": 12.0,
+      "regional:runner_up": 18.0,
+      "regional:champion": 24.0,
+      "other:champion": 12.0,
+      "other:runner_up": 8.0,
+      "other:top4": 6.0
+    }
+  },
+  "entries": [
+    {
+      "team": "Hanwha Life Esports",
+      "tournament": "First Stand 2025",
+      "event": "other",
+      "placement": "champion",
+      "end_date": "2025-03-16",
+      "league": "LCK",
+      "notes": "FST 2025 Champion"
+    },
+    {
+      "team": "Karmine Corp",
+      "tournament": "First Stand 2025",
+      "event": "other",
+      "placement": "runner_up",
+      "end_date": "2025-03-16",
+      "league": "LEC",
+      "notes": "FST 2025 Runner-up"
+    },
+    {
+      "team": "CTBC Flying Oyster",
+      "tournament": "First Stand 2025",
+      "event": "other",
+      "placement": "top4",
+      "end_date": "2025-03-16",
+      "league": "LMS",
+      "notes": "FST 2025 Top 4"
+    },
+    {
+      "team": "Top Esports",
+      "tournament": "First Stand 2025",
+      "event": "other",
+      "placement": "top4",
+      "end_date": "2025-03-16",
+      "league": "LPL",
+      "notes": "FST 2025 Top 4"
+    },
+    {
+      "team": "Gen.G",
+      "tournament": "MSI 2025",
+      "event": "msi",
+      "placement": "champion",
+      "end_date": "2025-07-12",
+      "league": "LCK",
+      "notes": "MSI 2025 Champion, defeated T1 3-2 in finals"
+    },
+    {
+      "team": "T1",
+      "tournament": "MSI 2025",
+      "event": "msi",
+      "placement": "runner_up",
+      "end_date": "2025-07-12",
+      "league": "LCK",
+      "notes": "MSI 2025 Runner-up"
+    },
+    {
+      "team": "Bilibili Gaming",
+      "tournament": "MSI 2025",
+      "event": "msi",
+      "placement": "top4",
+      "end_date": "2025-07-12",
+      "league": "LPL",
+      "notes": "MSI 2025 Top 4"
+    },
+    {
+      "team": "Fnatic",
+      "tournament": "MSI 2025",
+      "event": "msi",
+      "placement": "top4",
+      "end_date": "2025-07-12",
+      "league": "LEC",
+      "notes": "MSI 2025 Top 4"
+    },
+    {
+      "team": "Gen.G",
+      "tournament": "LCK 2025",
+      "event": "regional",
+      "placement": "champion",
+      "end_date": "2025-09-28",
+      "league": "LCK",
+      "notes": "LCK 2025 Champion, defeated HLE 3-1 in finals"
+    },
+    {
+      "team": "Hanwha Life Esports",
+      "tournament": "LCK 2025",
+      "event": "regional",
+      "placement": "runner_up",
+      "end_date": "2025-09-28",
+      "league": "LCK",
+      "notes": "LCK 2025 Runner-up"
+    },
+    {
+      "team": "KT Rolster",
+      "tournament": "LCK 2025",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2025-09-28",
+      "league": "LCK",
+      "notes": "LCK 2025 Top 4"
+    },
+    {
+      "team": "T1",
+      "tournament": "LCK 2025",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2025-09-28",
+      "league": "LCK",
+      "notes": "LCK 2025 Top 4"
+    },
+    {
+      "team": "T1",
+      "tournament": "Worlds 2025",
+      "event": "worlds",
+      "placement": "champion",
+      "end_date": "2025-11-09",
+      "league": "LCK",
+      "notes": "Worlds 2025 Champion, defeated Gen.G 3-2 in finals, 3rd consecutive title"
+    },
+    {
+      "team": "Gen.G",
+      "tournament": "Worlds 2025",
+      "event": "worlds",
+      "placement": "runner_up",
+      "end_date": "2025-11-09",
+      "league": "LCK",
+      "notes": "Worlds 2025 Runner-up"
+    },
+    {
+      "team": "JD Gaming",
+      "tournament": "Worlds 2025",
+      "event": "worlds",
+      "placement": "top4",
+      "end_date": "2025-11-09",
+      "league": "LPL",
+      "notes": "Worlds 2025 Top 4, lost to T1 3-1 in semis"
+    },
+    {
+      "team": "Weibo Gaming",
+      "tournament": "Worlds 2025",
+      "event": "worlds",
+      "placement": "top4",
+      "end_date": "2025-11-09",
+      "league": "LPL",
+      "notes": "Worlds 2025 Top 4, lost to T1 3-0 in finals"
+    },
+    {
+      "team": "LNG Esports",
+      "tournament": "Worlds 2025",
+      "event": "worlds",
+      "placement": "top8",
+      "end_date": "2025-11-09",
+      "league": "LPL",
+      "notes": "Worlds 2025 Top 8, lost to T1 3-0 in quarters"
+    },
+    {
+      "team": "FunPlus Phoenix",
+      "tournament": "Worlds 2025",
+      "event": "worlds",
+      "placement": "top8",
+      "end_date": "2025-11-09",
+      "league": "LPL",
+      "notes": "Worlds 2025 Top 8"
+    },
+    {
+      "team": "MAD Lions",
+      "tournament": "Worlds 2025",
+      "event": "worlds",
+      "placement": "top8",
+      "end_date": "2025-11-09",
+      "league": "LEC",
+      "notes": "Worlds 2025 Top 8"
+    },
+    {
+      "team": "G2 Esports",
+      "tournament": "Worlds 2025",
+      "event": "worlds",
+      "placement": "top8",
+      "end_date": "2025-11-09",
+      "league": "LEC",
+      "notes": "Worlds 2025 Top 8"
+    },
+    {
+      "team": "Top Esports",
+      "tournament": "LPL 2025 Split 1",
+      "event": "regional",
+      "placement": "champion",
+      "end_date": "2025-03-01",
+      "league": "LPL",
+      "notes": "LPL 2025 Split 1 Champion"
+    },
+    {
+      "team": "Anyone's Legend",
+      "tournament": "LPL 2025 Split 1",
+      "event": "regional",
+      "placement": "runner_up",
+      "end_date": "2025-03-01",
+      "league": "LPL",
+      "notes": "LPL 2025 Split 1 Runner-up"
+    },
+    {
+      "team": "JD Gaming",
+      "tournament": "LPL 2025 Split 1",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2025-03-01",
+      "league": "LPL",
+      "notes": "LPL 2025 Split 1 Top 4"
+    },
+    {
+      "team": "Bilibili Gaming",
+      "tournament": "LPL 2025 Split 1",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2025-03-01",
+      "league": "LPL",
+      "notes": "LPL 2025 Split 1 Top 4"
+    },
+    {
+      "team": "MAD Lions",
+      "tournament": "LEC 2025 Spring",
+      "event": "regional",
+      "placement": "champion",
+      "end_date": "2025-06-08",
+      "league": "LEC",
+      "notes": "LEC 2025 Spring Champion"
+    },
+    {
+      "team": "G2 Esports",
+      "tournament": "LEC 2025 Spring",
+      "event": "regional",
+      "placement": "runner_up",
+      "end_date": "2025-06-08",
+      "league": "LEC",
+      "notes": "LEC 2025 Spring Runner-up"
+    },
+    {
+      "team": "Fnatic",
+      "tournament": "LEC 2025 Spring",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2025-06-08",
+      "league": "LEC",
+      "notes": "LEC 2025 Spring Top 4"
+    },
+    {
+      "team": "Team Vitality",
+      "tournament": "LEC 2025 Spring",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2025-06-08",
+      "league": "LEC",
+      "notes": "LEC 2025 Spring Top 4"
+    },
+    {
+      "team": "T1",
+      "tournament": "Worlds 2024",
+      "event": "worlds",
+      "placement": "champion",
+      "end_date": "2024-11-02",
+      "league": "LCK",
+      "notes": "Worlds 2024 Champion, defeated BLG 3-2 in finals"
+    },
+    {
+      "team": "Bilibili Gaming",
+      "tournament": "Worlds 2024",
+      "event": "worlds",
+      "placement": "runner_up",
+      "end_date": "2024-11-02",
+      "league": "LPL",
+      "notes": "Worlds 2024 Runner-up"
+    },
+    {
+      "team": "Gen.G",
+      "tournament": "Worlds 2024",
+      "event": "worlds",
+      "placement": "top4",
+      "end_date": "2024-11-02",
+      "league": "LCK",
+      "notes": "Worlds 2024 Top 4"
+    },
+    {
+      "team": "Weibo Gaming",
+      "tournament": "Worlds 2024",
+      "event": "worlds",
+      "placement": "top4",
+      "end_date": "2024-11-02",
+      "league": "LPL",
+      "notes": "Worlds 2024 Top 4"
+    },
+    {
+      "team": "LNG Esports",
+      "tournament": "Worlds 2024",
+      "event": "worlds",
+      "placement": "top8",
+      "end_date": "2024-11-02",
+      "league": "LPL",
+      "notes": "Worlds 2024 Top 8"
+    },
+    {
+      "team": "Hanwha Life Esports",
+      "tournament": "Worlds 2024",
+      "event": "worlds",
+      "placement": "top8",
+      "end_date": "2024-11-02",
+      "league": "LCK",
+      "notes": "Worlds 2024 Top 8"
+    },
+    {
+      "team": "FlyQuest",
+      "tournament": "Worlds 2024",
+      "event": "worlds",
+      "placement": "top8",
+      "end_date": "2024-11-02",
+      "league": "LCS",
+      "notes": "Worlds 2024 Top 8"
+    },
+    {
+      "team": "Top Esports",
+      "tournament": "Worlds 2024",
+      "event": "worlds",
+      "placement": "top8",
+      "end_date": "2024-11-02",
+      "league": "LPL",
+      "notes": "Worlds 2024 Top 8"
+    },
+    {
+      "team": "Gen.G",
+      "tournament": "MSI 2024",
+      "event": "msi",
+      "placement": "champion",
+      "end_date": "2024-05-25",
+      "league": "LCK",
+      "notes": "MSI 2024 Champion, defeated BLG 3-1 in finals"
+    },
+    {
+      "team": "Bilibili Gaming",
+      "tournament": "MSI 2024",
+      "event": "msi",
+      "placement": "runner_up",
+      "end_date": "2024-05-25",
+      "league": "LPL",
+      "notes": "MSI 2024 Runner-up"
+    },
+    {
+      "team": "T1",
+      "tournament": "MSI 2024",
+      "event": "msi",
+      "placement": "top4",
+      "end_date": "2024-05-25",
+      "league": "LCK",
+      "notes": "MSI 2024 Top 4"
+    },
+    {
+      "team": "G2 Esports",
+      "tournament": "MSI 2024",
+      "event": "msi",
+      "placement": "top4",
+      "end_date": "2024-05-25",
+      "league": "LEC",
+      "notes": "MSI 2024 Top 4"
+    },
+    {
+      "team": "Gen.G",
+      "tournament": "LCK 2024 Spring",
+      "event": "regional",
+      "placement": "champion",
+      "end_date": "2024-04-13",
+      "league": "LCK",
+      "notes": "LCK 2024 Spring Champion, 4 peat, defeated T1 3-2"
+    },
+    {
+      "team": "T1",
+      "tournament": "LCK 2024 Spring",
+      "event": "regional",
+      "placement": "runner_up",
+      "end_date": "2024-04-13",
+      "league": "LCK",
+      "notes": "LCK 2024 Spring Runner-up"
+    },
+    {
+      "team": "Damwon KIA",
+      "tournament": "LCK 2024 Spring",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-04-13",
+      "league": "LCK",
+      "notes": "LCK 2024 Spring Top 4"
+    },
+    {
+      "team": "Hanwha Life Esports",
+      "tournament": "LCK 2024 Spring",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-04-13",
+      "league": "LCK",
+      "notes": "LCK 2024 Spring Top 4"
+    },
+    {
+      "team": "Hanwha Life Esports",
+      "tournament": "LCK 2024 Summer",
+      "event": "regional",
+      "placement": "champion",
+      "end_date": "2024-09-01",
+      "league": "LCK",
+      "notes": "LCK 2024 Summer Champion"
+    },
+    {
+      "team": "T1",
+      "tournament": "LCK 2024 Summer",
+      "event": "regional",
+      "placement": "runner_up",
+      "end_date": "2024-09-01",
+      "league": "LCK",
+      "notes": "LCK 2024 Summer Runner-up"
+    },
+    {
+      "team": "Dplus KIA",
+      "tournament": "LCK 2024 Summer",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-09-01",
+      "league": "LCK",
+      "notes": "LCK 2024 Summer Top 4"
+    },
+    {
+      "team": "Gen.G",
+      "tournament": "LCK 2024 Summer",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-09-01",
+      "league": "LCK",
+      "notes": "LCK 2024 Summer Top 4"
+    },
+    {
+      "team": "G2 Esports",
+      "tournament": "LEC 2024 Spring",
+      "event": "regional",
+      "placement": "champion",
+      "end_date": "2024-04-14",
+      "league": "LEC",
+      "notes": "LEC 2024 Spring Champion, defeated Fnatic 3-1"
+    },
+    {
+      "team": "Fnatic",
+      "tournament": "LEC 2024 Spring",
+      "event": "regional",
+      "placement": "runner_up",
+      "end_date": "2024-04-14",
+      "league": "LEC",
+      "notes": "LEC 2024 Spring Runner-up"
+    },
+    {
+      "team": "Team BDS",
+      "tournament": "LEC 2024 Spring",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-04-14",
+      "league": "LEC",
+      "notes": "LEC 2024 Spring Top 4"
+    },
+    {
+      "team": "Team Vitality",
+      "tournament": "LEC 2024 Spring",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-04-14",
+      "league": "LEC",
+      "notes": "LEC 2024 Spring Top 4"
+    },
+    {
+      "team": "G2 Esports",
+      "tournament": "LEC 2024 Summer",
+      "event": "regional",
+      "placement": "champion",
+      "end_date": "2024-07-27",
+      "league": "LEC",
+      "notes": "LEC 2024 Summer Champion, defeated Fnatic 3-0"
+    },
+    {
+      "team": "Fnatic",
+      "tournament": "LEC 2024 Summer",
+      "event": "regional",
+      "placement": "runner_up",
+      "end_date": "2024-07-27",
+      "league": "LEC",
+      "notes": "LEC 2024 Summer Runner-up"
+    },
+    {
+      "team": "Team Vitality",
+      "tournament": "LEC 2024 Summer",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-07-27",
+      "league": "LEC",
+      "notes": "LEC 2024 Summer Top 4"
+    },
+    {
+      "team": "MAD Lions KOI",
+      "tournament": "LEC 2024 Summer",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-07-27",
+      "league": "LEC",
+      "notes": "LEC 2024 Summer Top 4"
+    },
+    {
+      "team": "Team Liquid",
+      "tournament": "LCS 2024 Spring",
+      "event": "regional",
+      "placement": "champion",
+      "end_date": "2024-03-31",
+      "league": "LCS",
+      "notes": "LCS 2024 Spring Champion"
+    },
+    {
+      "team": "FlyQuest",
+      "tournament": "LCS 2024 Spring",
+      "event": "regional",
+      "placement": "runner_up",
+      "end_date": "2024-03-31",
+      "league": "LCS",
+      "notes": "LCS 2024 Spring Runner-up"
+    },
+    {
+      "team": "Cloud9",
+      "tournament": "LCS 2024 Spring",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-03-31",
+      "league": "LCS",
+      "notes": "LCS 2024 Spring Top 4"
+    },
+    {
+      "team": "100 Thieves",
+      "tournament": "LCS 2024 Spring",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-03-31",
+      "league": "LCS",
+      "notes": "LCS 2024 Spring Top 4"
+    },
+    {
+      "team": "FlyQuest",
+      "tournament": "LCS 2024 Summer",
+      "event": "regional",
+      "placement": "champion",
+      "end_date": "2024-08-25",
+      "league": "LCS",
+      "notes": "LCS 2024 Summer Champion, defeated Cloud9"
+    },
+    {
+      "team": "Cloud9",
+      "tournament": "LCS 2024 Summer",
+      "event": "regional",
+      "placement": "runner_up",
+      "end_date": "2024-08-25",
+      "league": "LCS",
+      "notes": "LCS 2024 Summer Runner-up"
+    },
+    {
+      "team": "100 Thieves",
+      "tournament": "LCS 2024 Summer",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-08-25",
+      "league": "LCS",
+      "notes": "LCS 2024 Summer Top 4"
+    },
+    {
+      "team": "Dignitas",
+      "tournament": "LCS 2024 Summer",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-08-25",
+      "league": "LCS",
+      "notes": "LCS 2024 Summer Top 4"
+    },
+    {
+      "team": "Bilibili Gaming",
+      "tournament": "LPL 2024 Spring",
+      "event": "regional",
+      "placement": "champion",
+      "end_date": "2024-03-03",
+      "league": "LPL",
+      "notes": "LPL 2024 Spring Champion"
+    },
+    {
+      "team": "Top Esports",
+      "tournament": "LPL 2024 Spring",
+      "event": "regional",
+      "placement": "runner_up",
+      "end_date": "2024-03-03",
+      "league": "LPL",
+      "notes": "LPL 2024 Spring Runner-up"
+    },
+    {
+      "team": "JD Gaming",
+      "tournament": "LPL 2024 Spring",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-03-03",
+      "league": "LPL",
+      "notes": "LPL 2024 Spring Top 4"
+    },
+    {
+      "team": "Weibo Gaming",
+      "tournament": "LPL 2024 Spring",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-03-03",
+      "league": "LPL",
+      "notes": "LPL 2024 Spring Top 4"
+    },
+    {
+      "team": "Bilibili Gaming",
+      "tournament": "LPL 2024 Summer",
+      "event": "regional",
+      "placement": "champion",
+      "end_date": "2024-09-21",
+      "league": "LPL",
+      "notes": "LPL 2024 Summer Champion, defeated Weibo Gaming 3-0"
+    },
+    {
+      "team": "Weibo Gaming",
+      "tournament": "LPL 2024 Summer",
+      "event": "regional",
+      "placement": "runner_up",
+      "end_date": "2024-09-21",
+      "league": "LPL",
+      "notes": "LPL 2024 Summer Runner-up"
+    },
+    {
+      "team": "JD Gaming",
+      "tournament": "LPL 2024 Summer",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-09-21",
+      "league": "LPL",
+      "notes": "LPL 2024 Summer Top 4"
+    },
+    {
+      "team": "Top Esports",
+      "tournament": "LPL 2024 Summer",
+      "event": "regional",
+      "placement": "top4",
+      "end_date": "2024-09-21",
+      "league": "LPL",
+      "notes": "LPL 2024 Summer Top 4"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "date": "23/01",
+    "time": "05:00",
+    "league": "LCK",
+    "teamA": "KT Rolster",
+    "teamB": "T1",
+    "bo": 3,
+    "lines": "",
+    "saved_lines": {
+      "lines_kills": "30.5",
+      "lines_towers": "11.5",
+      "lines_dragons": "4.5",
+      "lines_barons": "1.5",
+      "lines_inhib": "1.5",
+      "lines_time": "31:30",
+      "teamA_kills_line_text": "",
+      "teamB_kills_line_text": "",
+      "hc_team": "KT Rolster",
+      "hc_kills_text": "",
+      "hc_towers_text": "",
+      "hc_dragons_text": "",
+      "combo_kills_text": "",
+      "combo_time_text": ""
+    }
+  },
+  {
+    "date": "23/01",
+    "time": "07:00",
+    "league": "LCK",
+    "teamA": "Nongshim RedForce",
+    "teamB": "DRX",
+    "bo": 3,
+    "lines": "",
+    "saved_lines": {}
+  }
+]
